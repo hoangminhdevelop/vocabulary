@@ -12,23 +12,25 @@ import {
   TablePagination,
   Paper,
 } from '@mui/material';
-import { Add, Search as SearchIcon, Psychology } from '@mui/icons-material';
+import { Add, Search as SearchIcon, Psychology, Upload } from '@mui/icons-material';
 import { useVocabularyTopic, useVocabularyWords } from '../hooks/useVocabulary';
 import { useDebounce } from '../hooks/useDebounce';
 import WordTable from '../components/vocabulary/WordTable';
 import CreateWordModal from '../components/vocabulary/CreateWordModal';
+import ImportWordsModal from '../components/vocabulary/ImportWordsModal';
 
 const VocabularyDetailPage: React.FC = () => {
   const { topicId } = useParams<{ topicId: string }>();
   const navigate = useNavigate();
   const [createModalOpen, setCreateModalOpen] = useState(false);
+  const [importModalOpen, setImportModalOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [orderBy, setOrderBy] = useState<
     'word' | 'type' | 'practiceCount' | 'wrongCount' | 'isLearned'
   >('word');
   const [order, setOrder] = useState<'asc' | 'desc'>('asc');
   const [page, setPage] = useState(0);
-  const [rowsPerPage, setRowsPerPage] = useState(10);
+  const [rowsPerPage, setRowsPerPage] = useState(25);
 
   // Debounce search term for API calls
   const debouncedSearchTerm = useDebounce(searchTerm, 500);
@@ -44,6 +46,7 @@ const VocabularyDetailPage: React.FC = () => {
     data: wordsResponse,
     isLoading: isWordsLoading,
     error: wordsError,
+    refetch: refetchWords,
   } = useVocabularyWords(topicId || '', {
     search: debouncedSearchTerm,
     sortBy: orderBy,
@@ -83,6 +86,10 @@ const VocabularyDetailPage: React.FC = () => {
     setCreateModalOpen(false);
   };
 
+  const handleImportSuccess = () => {
+    setImportModalOpen(false);
+  };
+
   if (isLoading && !topic) {
     return (
       <Container maxWidth="lg">
@@ -118,6 +125,9 @@ const VocabularyDetailPage: React.FC = () => {
       <Box sx={{ mb: 4, display: 'flex', gap: 2 }}>
         <Button variant="contained" startIcon={<Add />} onClick={() => setCreateModalOpen(true)}>
           Create New Word
+        </Button>
+        <Button variant="outlined" startIcon={<Upload />} onClick={() => setImportModalOpen(true)}>
+          Import Words
         </Button>
         <Button
           variant="contained"
@@ -190,7 +200,13 @@ const VocabularyDetailPage: React.FC = () => {
         </Box>
       ) : (
         <>
-          <WordTable words={words} orderBy={orderBy} order={order} onSort={handleSort} />
+          <WordTable
+            words={words}
+            onUpdate={refetchWords}
+            orderBy={orderBy}
+            order={order}
+            onSort={handleSort}
+          />
           <Paper sx={{ mt: 2 }}>
             <TablePagination
               component="div"
@@ -206,12 +222,20 @@ const VocabularyDetailPage: React.FC = () => {
       )}
 
       {topicId && (
-        <CreateWordModal
-          open={createModalOpen}
-          onClose={() => setCreateModalOpen(false)}
-          onSuccess={handleCreateSuccess}
-          topicId={topicId}
-        />
+        <>
+          <CreateWordModal
+            open={createModalOpen}
+            onClose={() => setCreateModalOpen(false)}
+            onSuccess={handleCreateSuccess}
+            topicId={topicId}
+          />
+          <ImportWordsModal
+            open={importModalOpen}
+            onClose={() => setImportModalOpen(false)}
+            onSuccess={handleImportSuccess}
+            topicId={topicId}
+          />
+        </>
       )}
     </Container>
   );

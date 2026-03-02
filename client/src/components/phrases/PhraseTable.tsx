@@ -25,6 +25,7 @@ import { Phrase } from '../../types';
 import { useApp } from '../../context/AppContext';
 import { useUpdatePhrase, useDeletePhrase } from '../../hooks/usePhrases';
 import EditPhraseModal from './EditPhraseModal';
+import ImageWithModal from '../ImageWithModal';
 
 interface PhraseTableProps {
   phrases: Phrase[];
@@ -93,7 +94,6 @@ const PhraseTable: React.FC<PhraseTableProps> = ({ phrases, onUpdate, orderBy, o
         data: { isLearned: !phrase.isLearned },
       });
       showSuccess(`Phrase marked as ${!phrase.isLearned ? 'learned' : 'not learned'}`);
-      onUpdate?.();
     } catch (error) {
       setError(error as string);
     }
@@ -117,6 +117,9 @@ const PhraseTable: React.FC<PhraseTableProps> = ({ phrases, onUpdate, orderBy, o
                 ) : (
                   <strong>Phrase</strong>
                 )}
+              </TableCell>
+              <TableCell align="center">
+                <strong>Image</strong>
               </TableCell>
               <TableCell>
                 <strong>Definition</strong>
@@ -171,7 +174,7 @@ const PhraseTable: React.FC<PhraseTableProps> = ({ phrases, onUpdate, orderBy, o
           <TableBody>
             {phrases.length === 0 ? (
               <TableRow>
-                <TableCell colSpan={7} align="center">
+                <TableCell colSpan={8} align="center">
                   <Typography variant="body2" color="text.secondary" sx={{ py: 3 }}>
                     No phrases found
                   </Typography>
@@ -184,6 +187,9 @@ const PhraseTable: React.FC<PhraseTableProps> = ({ phrases, onUpdate, orderBy, o
                     <Typography variant="body1" fontWeight="medium">
                       {phrase.phrase}
                     </Typography>
+                  </TableCell>
+                  <TableCell align="center">
+                    <ImageWithModal src={phrase.image} alt={phrase.phrase} size={60} />
                   </TableCell>
                   <TableCell>
                     <Typography variant="body2">{phrase.definition}</Typography>
@@ -255,8 +261,8 @@ const PhraseTable: React.FC<PhraseTableProps> = ({ phrases, onUpdate, orderBy, o
         <DialogTitle id="delete-dialog-title">Confirm Delete</DialogTitle>
         <DialogContent>
           <DialogContentText>
-            Are you sure you want to delete the phrase "{phraseToDelete?.phrase}"? This action
-            cannot be undone.
+            Are you sure you want to delete the phrase <strong>{phraseToDelete?.phrase}</strong>?
+            This action cannot be undone.
           </DialogContentText>
         </DialogContent>
         <DialogActions>

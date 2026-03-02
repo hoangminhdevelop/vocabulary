@@ -222,6 +222,16 @@ export class VocabularyService {
       throw new AppError('Topic not found', 404);
     }
 
+    // Check if word already exists in this topic (case-insensitive)
+    const existingWord = await VocabularyWord.findOne({
+      topicId: wordData.topicId,
+      word: { $regex: new RegExp(`^${wordData.word.trim()}$`, 'i') },
+    });
+
+    if (existingWord) {
+      throw new AppError(`Word "${wordData.word}" already exists in this topic`, 400);
+    }
+
     const word = await VocabularyWord.create(wordData);
     return word;
   }

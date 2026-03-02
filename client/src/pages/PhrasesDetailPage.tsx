@@ -12,23 +12,25 @@ import {
   TablePagination,
   Paper,
 } from '@mui/material';
-import { Add, Search as SearchIcon, Psychology } from '@mui/icons-material';
+import { Add, Search as SearchIcon, Psychology, Upload } from '@mui/icons-material';
 import { usePhraseTopic, usePhrasesByTopic } from '../hooks/usePhrases';
 import { useDebounce } from '../hooks/useDebounce';
 import PhraseTable from '../components/phrases/PhraseTable';
 import CreatePhraseModal from '../components/phrases/CreatePhraseModal';
+import ImportPhrasesModal from '../components/phrases/ImportPhrasesModal';
 
 const PhrasesDetailPage: React.FC = () => {
   const { topicId } = useParams<{ topicId: string }>();
   const navigate = useNavigate();
   const [createModalOpen, setCreateModalOpen] = useState(false);
+  const [importModalOpen, setImportModalOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [orderBy, setOrderBy] = useState<'phrase' | 'practiceCount' | 'wrongCount' | 'isLearned'>(
     'phrase'
   );
   const [order, setOrder] = useState<'asc' | 'desc'>('asc');
   const [page, setPage] = useState(0);
-  const [rowsPerPage, setRowsPerPage] = useState(10);
+  const [rowsPerPage, setRowsPerPage] = useState(25);
 
   // Debounce search term for API calls
   const debouncedSearchTerm = useDebounce(searchTerm, 500);
@@ -44,6 +46,7 @@ const PhrasesDetailPage: React.FC = () => {
     data: phrasesResponse,
     isLoading: isPhrasesLoading,
     error: phrasesError,
+    refetch: refetchPhrases,
   } = usePhrasesByTopic(topicId || '', {
     search: debouncedSearchTerm,
     sortBy: orderBy,
@@ -65,6 +68,10 @@ const PhrasesDetailPage: React.FC = () => {
 
   const handleCreateSuccess = () => {
     setCreateModalOpen(false);
+  };
+
+  const handleImportSuccess = () => {
+    setImportModalOpen(false);
   };
 
   const handleSort = (column: 'phrase' | 'practiceCount' | 'wrongCount' | 'isLearned') => {
@@ -118,6 +125,9 @@ const PhrasesDetailPage: React.FC = () => {
       <Box sx={{ mb: 4, display: 'flex', gap: 2 }}>
         <Button variant="contained" startIcon={<Add />} onClick={() => setCreateModalOpen(true)}>
           Create New Phrase
+        </Button>
+        <Button variant="outlined" startIcon={<Upload />} onClick={() => setImportModalOpen(true)}>
+          Import Phrases
         </Button>
         <Button
           variant="contained"
@@ -190,7 +200,13 @@ const PhrasesDetailPage: React.FC = () => {
         </Box>
       ) : (
         <>
-          <PhraseTable phrases={phrases} orderBy={orderBy} order={order} onSort={handleSort} />
+          <PhraseTable
+            phrases={phrases}
+            onUpdate={refetchPhrases}
+            orderBy={orderBy}
+            order={order}
+            onSort={handleSort}
+          />
           <Paper sx={{ mt: 2 }}>
             <TablePagination
               component="div"
@@ -206,12 +222,20 @@ const PhrasesDetailPage: React.FC = () => {
       )}
 
       {topicId && (
-        <CreatePhraseModal
-          open={createModalOpen}
-          onClose={() => setCreateModalOpen(false)}
-          onSuccess={handleCreateSuccess}
-          topicId={topicId}
-        />
+        <>
+          <CreatePhraseModal
+            open={createModalOpen}
+            onClose={() => setCreateModalOpen(false)}
+            onSuccess={handleCreateSuccess}
+            topicId={topicId}
+          />
+          <ImportPhrasesModal
+            open={importModalOpen}
+            onClose={() => setImportModalOpen(false)}
+            onSuccess={handleImportSuccess}
+            topicId={topicId}
+          />
+        </>
       )}
     </Container>
   );

@@ -103,12 +103,24 @@ export const useUpdateWord = () => {
   return useMutation({
     mutationFn: ({ wordId, data }: { wordId: string; data: UpdateVocabularyWordRequest }) =>
       apiService.updateVocabularyWord(wordId, data),
-    onSuccess: (result) => {
-      // Invalidate all word queries for this topic (regardless of params)
-      queryClient.invalidateQueries({
-        queryKey: ['vocabulary', 'words', result.topicId],
-      });
-      queryClient.invalidateQueries({ queryKey: vocabularyKeys.topics() });
+    onSuccess: (updatedWord) => {
+      // Update the cache directly instead of invalidating
+      queryClient.setQueriesData(
+        { queryKey: ['vocabulary', 'words', updatedWord.topicId] },
+        (oldData: any) => {
+          if (!oldData) return oldData;
+          return {
+            ...oldData,
+            data: oldData.data.map((word: any) =>
+              word._id === updatedWord._id ? updatedWord : word
+            ),
+          };
+        }
+      );
+      // Only invalidate topics if it might affect counts
+      if (updatedWord.isLearned !== undefined) {
+        queryClient.invalidateQueries({ queryKey: vocabularyKeys.topics() });
+      }
     },
   });
 };

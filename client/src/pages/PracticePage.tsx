@@ -38,6 +38,7 @@ interface PracticeState {
   sessionComplete: boolean;
   correctCount: number;
   wrongCount: number;
+  wrongItems: PracticeItem[];
   requireRetype: boolean;
 }
 
@@ -62,6 +63,7 @@ const PracticePage: React.FC = () => {
     sessionComplete: false,
     correctCount: 0,
     wrongCount: 0,
+    wrongItems: [],
     requireRetype: false,
   });
 
@@ -113,6 +115,7 @@ const PracticePage: React.FC = () => {
         sessionComplete: false,
         correctCount: 0,
         wrongCount: 0,
+        wrongItems: [],
         requireRetype: false,
       });
       setSessionStarted(true);
@@ -131,6 +134,7 @@ const PracticePage: React.FC = () => {
         sessionComplete: false,
         correctCount: 0,
         wrongCount: 0,
+        wrongItems: [],
         requireRetype: false,
       });
       setSessionStarted(true);
@@ -212,6 +216,7 @@ const PracticePage: React.FC = () => {
           isCorrect,
           correctAnswer,
           wrongCount: prev.wrongCount + 1,
+          wrongItems: [...prev.wrongItems, currentItem],
           requireRetype: true,
         }));
       }
@@ -364,6 +369,50 @@ const PracticePage: React.FC = () => {
                 </Typography>
               </Box>
             </Box>
+
+            {practiceState.wrongItems.length > 0 && (
+              <Box sx={{ mt: 4, textAlign: 'left' }}>
+                <Typography variant="h6" gutterBottom color="error.main">
+                  Items to Review:
+                </Typography>
+                <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
+                  {practiceState.wrongItems.map((item, index) => (
+                    <Card key={index} variant="outlined" sx={{ borderColor: 'error.light' }}>
+                      <CardContent>
+                        <Typography variant="subtitle1" fontWeight="bold" gutterBottom>
+                          {practiceType === 'vocabulary'
+                            ? (item as VocabularyWord).word
+                            : (item as Phrase).phrase}
+                        </Typography>
+                        <Typography variant="body2" color="text.secondary">
+                          {item.definition}
+                        </Typography>
+                        {practiceType === 'vocabulary' && (
+                          <Box sx={{ mt: 1 }}>
+                            <Chip
+                              label={(item as VocabularyWord).type}
+                              size="small"
+                              color="primary"
+                              sx={{ mr: 1 }}
+                            />
+                            <Typography variant="caption" color="text.secondary" component="span">
+                              {(item as VocabularyWord).IPA}
+                            </Typography>
+                          </Box>
+                        )}
+                        {item.exampleSentences && item.exampleSentences.length > 0 && (
+                          <Box sx={{ mt: 1 }}>
+                            <Typography variant="caption" color="text.secondary">
+                              Example: {item.exampleSentences[0]}
+                            </Typography>
+                          </Box>
+                        )}
+                      </CardContent>
+                    </Card>
+                  ))}
+                </Box>
+              </Box>
+            )}
           </Box>
 
           <Box display="flex" gap={2} justifyContent="center">
@@ -419,20 +468,6 @@ const PracticePage: React.FC = () => {
               <Typography variant="h5" paragraph>
                 {currentItem.definition}
               </Typography>
-
-              {/* Example sentences */}
-              {currentItem.exampleSentences && currentItem.exampleSentences.length > 0 && (
-                <Box sx={{ mt: 3 }}>
-                  <Typography variant="body2" color="text.secondary" gutterBottom>
-                    Example sentences:
-                  </Typography>
-                  {currentItem.exampleSentences.map((sentence, idx) => (
-                    <Typography key={idx} variant="body1" sx={{ ml: 2, mb: 1 }}>
-                      • {sentence}
-                    </Typography>
-                  ))}
-                </Box>
-              )}
 
               {/* Answer input */}
               <Box sx={{ mt: 4 }}>

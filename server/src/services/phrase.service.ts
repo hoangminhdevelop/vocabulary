@@ -217,6 +217,16 @@ export class PhraseService {
       throw new AppError('Topic not found', 404);
     }
 
+    // Check if phrase already exists in this topic (case-insensitive)
+    const existingPhrase = await Phrase.findOne({
+      topicId: phraseData.topicId,
+      phrase: { $regex: new RegExp(`^${phraseData.phrase.trim()}$`, 'i') },
+    });
+
+    if (existingPhrase) {
+      throw new AppError(`Phrase "${phraseData.phrase}" already exists in this topic`, 400);
+    }
+
     const phrase = await Phrase.create(phraseData);
     return phrase;
   }

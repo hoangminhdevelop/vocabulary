@@ -12,11 +12,11 @@ const VocabularyTopicSchema: Schema = new Schema(
       type: String,
       required: [true, 'Topic name is required'],
       unique: true,
-      trim: true
-    }
+      trim: true,
+    },
   },
   {
-    timestamps: true
+    timestamps: true,
   }
 );
 

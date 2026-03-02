@@ -9,39 +9,46 @@ import {
   Typography,
   Alert,
   Paper,
+  LinearProgress,
 } from '@mui/material';
 import { CloudUpload as CloudUploadIcon } from '@mui/icons-material';
 import { useApp } from '../../context/AppContext';
-import { useImportVocabularyTopic } from '../../hooks/useVocabulary';
+import { useCreateWord } from '../../hooks/useVocabulary';
 
-interface ImportTopicModalProps {
+interface ImportWordsModalProps {
   open: boolean;
   onClose: () => void;
   onSuccess: () => void;
+  topicId: string;
 }
 
-interface ImportData {
-  topic: string;
-  words: {
-    word: string;
-    type: string;
-    IPA: string;
-    definition: string;
-    exampleSentences: string[];
-    image?: string;
-  }[];
+interface ImportWord {
+  word: string;
+  type: string;
+  IPA: string;
+  definition: string;
+  exampleSentences: string[];
+  image?: string;
 }
 
-const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSuccess }) => {
+const ImportWordsModal: React.FC<ImportWordsModalProps> = ({
+  open,
+  onClose,
+  onSuccess,
+  topicId,
+}) => {
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [validationError, setValidationError] = useState<string | null>(null);
-  const { showSuccess } = useApp();
-  const importMutation = useImportVocabularyTopic();
+  const [importing, setImporting] = useState(false);
+  const [progress, setProgress] = useState({ current: 0, total: 0 });
+  const { showSuccess, setError } = useApp();
+  const createWordMutation = useCreateWord();
 
   const handleClose = () => {
+    if (importing) return;
     setSelectedFile(null);
     setValidationError(null);
-    importMutation.reset();
+    setProgress({ current: 0, total: 0 });
     onClose();
   };
 
@@ -58,25 +65,17 @@ const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSu
     }
   };
 
-  const validateStructure = (data: any): data is ImportData => {
-    if (!data || typeof data !== 'object') {
-      throw new Error('Invalid JSON structure');
+  const validateStructure = (data: unknown): data is ImportWord[] => {
+    if (!Array.isArray(data)) {
+      throw new Error('JSON must be an array of words');
     }
 
-    if (!data.topic || typeof data.topic !== 'string') {
-      throw new Error('Missing or invalid "topic" field');
-    }
-
-    if (!Array.isArray(data.words)) {
-      throw new Error('Missing or invalid "words" field - must be an array');
-    }
-
-    if (data.words.length === 0) {
+    if (data.length === 0) {
       throw new Error('Words array cannot be empty');
     }
 
-    for (let i = 0; i < data.words.length; i++) {
-      const word = data.words[i];
+    for (let i = 0; i < data.length; i++) {
+      const word = data[i];
       if (!word.word || typeof word.word !== 'string') {
         throw new Error(`Word at index ${i}: missing or invalid "word" field`);
       }
@@ -105,37 +104,70 @@ const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSu
 
     try {
       setValidationError(null);
+      setImporting(true);
 
       const fileContent = await selectedFile.text();
       const data = JSON.parse(fileContent);
 
       validateStructure(data);
 
-      importMutation.mutate(data, {
-        onSuccess: () => {
-          showSuccess('Topic imported successfully');
-          setSelectedFile(null);
-          onSuccess();
-          onClose();
-        },
-        onError: (error) => {
-          if (error instanceof Error) {
-            setValidationError(error.message);
+      setProgress({ current: 0, total: data.length });
+
+      // Import words one by one, tracking successes and skips
+      let successCount = 0;
+      const skippedWords: string[] = [];
+
+      for (let i = 0; i < data.length; i++) {
+        const word = data[i];
+        try {
+          await createWordMutation.mutateAsync({
+            topicId,
+            ...word,
+          });
+          successCount++;
+        } catch (err: unknown) {
+          // If it's a duplicate error, skip and continue
+          if (err && typeof err === 'object' && 'response' in err) {
+            const error = err as { response?: { data?: { message?: string } } };
+            if (error?.response?.data?.message?.includes('already exists')) {
+              skippedWords.push(word.word);
+            } else {
+              // For other errors, re-throw
+              throw err;
+            }
+          } else {
+            throw err;
           }
-        },
-      });
+        }
+        setProgress({ current: i + 1, total: data.length });
+      }
+
+      // Show summary message
+      let summaryMessage = `Successfully imported ${successCount} word${successCount !== 1 ? 's' : ''}`;
+      if (skippedWords.length > 0) {
+        summaryMessage += `. Skipped ${skippedWords.length} duplicate${skippedWords.length !== 1 ? 's' : ''}`;
+      }
+      showSuccess(summaryMessage);
+
+      setSelectedFile(null);
+      setProgress({ current: 0, total: 0 });
+      setImporting(false);
+      onSuccess();
+      onClose();
     } catch (error) {
+      setImporting(false);
       if (error instanceof SyntaxError) {
         setValidationError('Invalid JSON format');
       } else if (error instanceof Error) {
         setValidationError(error.message);
+        setError(error.message);
       }
     }
   };
 
   return (
     <Dialog open={open} onClose={handleClose} maxWidth="md" fullWidth>
-      <DialogTitle>Import Topic from JSON</DialogTitle>
+      <DialogTitle>Import Words from JSON</DialogTitle>
       <DialogContent>
         <Box sx={{ pt: 1 }}>
           <Box sx={{ mb: 3 }}>
@@ -144,7 +176,7 @@ const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSu
               component="label"
               fullWidth
               startIcon={<CloudUploadIcon />}
-              disabled={importMutation.isPending}
+              disabled={importing}
               sx={{ py: 2 }}
             >
               {selectedFile ? selectedFile.name : 'Choose JSON File'}
@@ -157,6 +189,18 @@ const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSu
             </Button>
           </Box>
 
+          {importing && (
+            <Box sx={{ mb: 2 }}>
+              <Typography variant="body2" gutterBottom>
+                Importing {progress.current} of {progress.total} words...
+              </Typography>
+              <LinearProgress
+                variant="determinate"
+                value={(progress.current / progress.total) * 100}
+              />
+            </Box>
+          )}
+
           {validationError && (
             <Alert severity="error" sx={{ mb: 2 }}>
               {validationError}
@@ -165,7 +209,7 @@ const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSu
 
           <Paper variant="outlined" sx={{ p: 2, bgcolor: 'grey.50' }}>
             <Typography variant="subtitle2" gutterBottom>
-              Expected JSON Structure:
+              Expected JSON Structure (Array):
             </Typography>
             <Box
               component="pre"
@@ -176,22 +220,28 @@ const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSu
                 fontFamily: 'monospace',
               }}
             >
-              {`{
-  "topic": "Topic Name",
-  "words": [
-    {
-      "word": "example",
-      "type": "noun",
-      "IPA": "/ɪɡˈzæmpəl/",
-      "definition": "A thing characteristic of its kind",
-      "exampleSentences": [
-        "This is an example sentence.",
-        "Here is another example."
-      ],
-      "image": "optional-image-url.jpg"
-    }
-  ]
-}`}
+              {`[
+  {
+    "word": "example",
+    "type": "noun",
+    "IPA": "/ɪɡˈzæmpəl/",
+    "definition": "A thing characteristic of its kind",
+    "exampleSentences": [
+      "This is an example sentence.",
+      "Here is another example."
+    ],
+    "image": "optional-image-url.jpg"
+  },
+  {
+    "word": "another",
+    "type": "determiner",
+    "IPA": "/əˈnʌðər/",
+    "definition": "Used to refer to an additional person or thing",
+    "exampleSentences": [
+      "Would you like another cup of tea?"
+    ]
+  }
+]`}
             </Box>
           </Paper>
 
@@ -200,39 +250,24 @@ const ImportTopicModal: React.FC<ImportTopicModalProps> = ({ open, onClose, onSu
               <strong>Requirements:</strong>
             </Typography>
             <Typography variant="body2" component="ul" sx={{ mt: 0.5, mb: 0 }}>
-              <li>File must be in JSON format</li>
-              <li>
-                Must include <strong>topic</strong> (string)
-              </li>
-              <li>
-                Must include <strong>words</strong> array with at least one word
-              </li>
-              <li>
-                Each word must have: <strong>word</strong>, <strong>type</strong>,{' '}
-                <strong>IPA</strong>, <strong>definition</strong>, and{' '}
-                <strong>exampleSentences</strong>
-              </li>
-              <li>
-                <strong>Image</strong> field is optional
-              </li>
+              <li>File must be a JSON array</li>
+              <li>Each word must have: word, type, IPA, definition, and exampleSentences</li>
+              <li>Image field is optional</li>
+              <li>Words will be added to the current topic</li>
             </Typography>
           </Alert>
         </Box>
       </DialogContent>
       <DialogActions>
-        <Button onClick={handleClose} disabled={importMutation.isPending}>
+        <Button onClick={handleClose} disabled={importing}>
           Cancel
         </Button>
-        <Button
-          onClick={handleSubmit}
-          variant="contained"
-          disabled={importMutation.isPending || !selectedFile}
-        >
-          {importMutation.isPending ? 'Importing...' : 'Import'}
+        <Button onClick={handleSubmit} variant="contained" disabled={importing || !selectedFile}>
+          {importing ? 'Importing...' : 'Import'}
         </Button>
       </DialogActions>
     </Dialog>
   );
 };
 
-export default ImportTopicModal;
+export default ImportWordsModal;

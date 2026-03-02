@@ -1,0 +1,35 @@
+[
+  {
+    "word": "provision",
+    "type": "noun",
+    "IPA": "/prəˈvɪʒən/",
+    "definition": "The act of supplying something or making it available",
+    "exampleSentences": [
+      "The provision of clean water is essential for public health.",
+      "The contract includes a provision for early termination."
+    ],
+    "image": "optional-image-url.jpg"
+  },
+  {
+    "word": "specify",
+    "type": "verb",
+    "IPA": "/ˈspesɪfaɪ/",
+    "definition": "To state something clearly and exactly",
+    "exampleSentences": [
+      "Please specify your requirements in the form.",
+      "The law does not specify a time limit."
+    ],
+    "image": "optional-image-url.jpg"
+  },
+  {
+    "word": "satisfy",
+    "type": "verb",
+    "IPA": "/ˈsætɪsfaɪ/",
+    "definition": "To meet a need, requirement, or expectation",
+    "exampleSentences": [
+      "The product failed to satisfy customer expectations.",
+      "You must satisfy all the conditions to apply."
+    ],
+    "image": "optional-image-url.jpg"
+  }
+]

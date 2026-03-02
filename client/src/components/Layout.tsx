@@ -64,7 +64,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       </AppBar>
 
       {/* Main Content */}
-      <Container component="main" sx={{ flexGrow: 1, py: 4 }}>
+      <Container maxWidth="lg" component="main" sx={{ flexGrow: 1, py: 4 }}>
         {children}
       </Container>
 

@@ -25,15 +25,17 @@ import { VocabularyWord } from '../../types';
 import { useApp } from '../../context/AppContext';
 import { useDeleteWord, useUpdateWord } from '../../hooks/useVocabulary';
 import EditWordModal from './EditWordModal';
+import ImageWithModal from '../ImageWithModal';
 
 interface WordTableProps {
   words: VocabularyWord[];
+  onUpdate?: () => void;
   orderBy?: 'word' | 'type' | 'practiceCount' | 'wrongCount' | 'isLearned';
   order?: 'asc' | 'desc';
   onSort?: (column: 'word' | 'type' | 'practiceCount' | 'wrongCount' | 'isLearned') => void;
 }
 
-const WordTable: React.FC<WordTableProps> = ({ words, orderBy, order, onSort }) => {
+const WordTable: React.FC<WordTableProps> = ({ words, onUpdate, orderBy, order, onSort }) => {
   const { showSuccess, setError } = useApp();
   const [editModalOpen, setEditModalOpen] = useState(false);
   const [selectedWord, setSelectedWord] = useState<VocabularyWord | null>(null);
@@ -55,6 +57,7 @@ const WordTable: React.FC<WordTableProps> = ({ words, orderBy, order, onSort }) 
 
   const handleEditSuccess = () => {
     handleEditClose();
+    onUpdate?.();
   };
 
   const handleDeleteClick = (word: VocabularyWord) => {
@@ -113,6 +116,9 @@ const WordTable: React.FC<WordTableProps> = ({ words, orderBy, order, onSort }) 
                 ) : (
                   <strong>Word</strong>
                 )}
+              </TableCell>
+              <TableCell align="center">
+                <strong>Image</strong>
               </TableCell>
               <TableCell>
                 {onSort ? (
@@ -183,7 +189,7 @@ const WordTable: React.FC<WordTableProps> = ({ words, orderBy, order, onSort }) 
           <TableBody>
             {words.length === 0 ? (
               <TableRow>
-                <TableCell colSpan={9} align="center">
+                <TableCell colSpan={12} align="center">
                   <Typography variant="body2" color="text.secondary" sx={{ py: 3 }}>
                     No words found
                   </Typography>
@@ -193,9 +199,12 @@ const WordTable: React.FC<WordTableProps> = ({ words, orderBy, order, onSort }) 
               words.map((word) => (
                 <TableRow key={word._id} hover>
                   <TableCell>
-                    <Typography variant="body1" fontWeight="medium">
+                    <Typography textTransform="capitalize" variant="body1" fontWeight="medium">
                       {word.word}
                     </Typography>
+                  </TableCell>
+                  <TableCell align="center">
+                    <ImageWithModal src={word.image} alt={word.word} size={60} />
                   </TableCell>
                   <TableCell>
                     <Chip label={word.type} size="small" color="primary" />
@@ -275,8 +284,8 @@ const WordTable: React.FC<WordTableProps> = ({ words, orderBy, order, onSort }) 
         <DialogTitle id="delete-dialog-title">Confirm Delete</DialogTitle>
         <DialogContent>
           <DialogContentText>
-            Are you sure you want to delete the word "{wordToDelete?.word}"? This action cannot be
-            undone.
+            Are you sure you want to delete the word <strong>{wordToDelete?.word}</strong>? This
+            action cannot be undone.
           </DialogContentText>
         </DialogContent>
         <DialogActions>

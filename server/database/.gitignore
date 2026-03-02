@@ -1,6 +1,0 @@
-# Ignore database dump files
-dump-data.gz
-*.gz
-
-# Ignore backup directories
-backups/

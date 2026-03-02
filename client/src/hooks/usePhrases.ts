@@ -103,12 +103,24 @@ export const useUpdatePhrase = () => {
   return useMutation({
     mutationFn: ({ phraseId, data }: { phraseId: string; data: UpdatePhraseRequest }) =>
       apiService.updatePhrase(phraseId, data),
-    onSuccess: (result) => {
-      // Invalidate all phrase queries for this topic (regardless of params)
-      queryClient.invalidateQueries({
-        queryKey: ['phrases', 'phrases', result.topicId],
-      });
-      queryClient.invalidateQueries({ queryKey: phraseKeys.topics() });
+    onSuccess: (updatedPhrase) => {
+      // Update the cache directly instead of invalidating
+      queryClient.setQueriesData(
+        { queryKey: ['phrases', 'phrases', updatedPhrase.topicId] },
+        (oldData: any) => {
+          if (!oldData) return oldData;
+          return {
+            ...oldData,
+            data: oldData.data.map((phrase: any) =>
+              phrase._id === updatedPhrase._id ? updatedPhrase : phrase
+            ),
+          };
+        }
+      );
+      // Only invalidate topics if it might affect counts
+      if (updatedPhrase.isLearned !== undefined) {
+        queryClient.invalidateQueries({ queryKey: phraseKeys.topics() });
+      }
     },
   });
 };
