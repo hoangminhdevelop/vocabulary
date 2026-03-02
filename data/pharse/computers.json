@@ -1,0 +1,35 @@
+{
+  "topic": "Computers",
+  "phrases": [
+    {
+      "phrase": "Entering some data into the computer",
+      "definition": "Nhập một số dữ liệu vào máy tính",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Typing up a document",
+      "definition": "Đánh máy một văn bản",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Using a laptop computer",
+      "definition": "Sử dụng máy tính xách tay",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Working at the keyboard",
+      "definition": "Làm việc trên bàn phím",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Looking at the screen",
+      "definition": "Nhìn vào màn hình",
+      "exampleSentences": [],
+      "image": ""
+    }
+  ]
+}

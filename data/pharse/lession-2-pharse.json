@@ -1,0 +1,220 @@
+[
+  {
+    "topic": "Documents/Materials",
+    "phrases": [
+      { "phrase": "Distributing materials", "definition": "Phát tài liệu", "exampleSentences": [], "image": "" },
+      { "phrase": "Examining a document", "definition": "Kiểm tra tài liệu", "exampleSentences": [], "image": "" },
+      { "phrase": "Filing the paper", "definition": "Sắp xếp giấy tờ", "exampleSentences": [], "image": "" },
+      { "phrase": "Looking through some papers", "definition": "Xem qua một số giấy tờ", "exampleSentences": [], "image": "" },
+      { "phrase": "Putting the paper in the piles", "definition": "Chất giấy tờ thành chồng", "exampleSentences": [], "image": "" },
+      { "phrase": "Reviewing some documents", "definition": "Xem xét một số tài liệu", "exampleSentences": [], "image": "" },
+      { "phrase": "Stapling some documents together", "definition": "Ghim một số tài liệu lại với nhau", "exampleSentences": [], "image": "" },
+      { "phrase": "Writing on a piece of paper", "definition": "Viết trên một mảnh giấy", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Computers",
+    "phrases": [
+      { "phrase": "Entering some data into the computer", "definition": "Nhập một số dữ liệu vào máy tính", "exampleSentences": [], "image": "" },
+      { "phrase": "Typing up a document", "definition": "Đánh máy một văn bản", "exampleSentences": [], "image": "" },
+      { "phrase": "Using a laptop computer", "definition": "Sử dụng máy tính xách tay", "exampleSentences": [], "image": "" },
+      { "phrase": "Working at the keyboard", "definition": "Làm việc trên bàn phím", "exampleSentences": [], "image": "" },
+      { "phrase": "Looking at the screen", "definition": "Nhìn vào màn hình", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Office supplies/Equipment",
+    "phrases": [
+      { "phrase": "Looking in a drawer", "definition": "Nhìn vào một cái ngăn kéo", "exampleSentences": [], "image": "" },
+      { "phrase": "Plugging a cord into a machine", "definition": "Cắm dây vào một cái máy", "exampleSentences": [], "image": "" },
+      { "phrase": "Being scattered around the room", "definition": "Nằm rải rác trong phòng", "exampleSentences": [], "image": "" },
+      { "phrase": "Exchanging business cards", "definition": "Trao đổi danh thiếp", "exampleSentences": [], "image": "" },
+      { "phrase": "Organizing the desk", "definition": "Sắp xếp bàn làm việc", "exampleSentences": [], "image": "" },
+      { "phrase": "Stretching back in his seat", "definition": "Dựa lưng vào chỗ ngồi", "exampleSentences": [], "image": "" },
+      { "phrase": "Putting paper in a copy machine", "definition": "Bỏ giấy vào máy photo", "exampleSentences": [], "image": "" },
+      { "phrase": "Using some office equipment", "definition": "Sử dụng thiết bị văn phòng", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Construction sites",
+    "phrases": [
+      { "phrase": "Being under construction", "definition": "Đang được thi công", "exampleSentences": [], "image": "" },
+      { "phrase": "Being stacked on top of one another", "definition": "Chất chồng lên nhau", "exampleSentences": [], "image": "" },
+      { "phrase": "Building a brick wall", "definition": "Xây một bức tường gạch", "exampleSentences": [], "image": "" },
+      { "phrase": "Climbing up a ladder", "definition": "Leo lên một cái thang", "exampleSentences": [], "image": "" },
+      { "phrase": "Digging a hole", "definition": "Đào một cái hố", "exampleSentences": [], "image": "" },
+      { "phrase": "Hammering pieces of wood", "definition": "Nện búa vào các mảnh gỗ", "exampleSentences": [], "image": "" },
+      { "phrase": "Looking at the blueprint", "definition": "Nhìn vào bản vẽ", "exampleSentences": [], "image": "" },
+      { "phrase": "Putting up a building", "definition": "Xây một tòa nhà", "exampleSentences": [], "image": "" },
+      { "phrase": "Repairing a power cable", "definition": "Sửa chữa cáp điện", "exampleSentences": [], "image": "" },
+      { "phrase": "Sawing boards", "definition": "Cưa những tấm ván", "exampleSentences": [], "image": "" },
+      { "phrase": "Working underground", "definition": "Làm việc dưới lòng đất", "exampleSentences": [], "image": "" },
+      { "phrase": "Unloading the shipment", "definition": "Dỡ hàng", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Factories",
+    "phrases": [
+      { "phrase": "Measuring a cabinet", "definition": "Đo một cái tủ", "exampleSentences": [], "image": "" },
+      { "phrase": "Wearing a safety vest", "definition": "Mặc áo bảo hộ", "exampleSentences": [], "image": "" },
+      { "phrase": "Packing up the equipment", "definition": "Đóng gói thiết bị", "exampleSentences": [], "image": "" },
+      { "phrase": "Working with a tool", "definition": "Làm việc với một công cụ", "exampleSentences": [], "image": "" },
+      { "phrase": "Working in an assembly line", "definition": "Làm việc trong một dây chuyền lắp ráp", "exampleSentences": [], "image": "" },
+      { "phrase": "Handling some packages", "definition": "Xử lý một vài kiện hàng", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Actions",
+    "phrases": [
+      { "phrase": "Removing the lid", "definition": "Tháo nắp", "exampleSentences": [], "image": "" },
+      { "phrase": "Labeling a sample", "definition": "Ghi nhãn một mẫu", "exampleSentences": [], "image": "" },
+      { "phrase": "Pouring liquid into a glass", "definition": "Rót chất lỏng vào ly", "exampleSentences": [], "image": "" },
+      { "phrase": "Setting up the equipment", "definition": "Thiết lập thiết bị", "exampleSentences": [], "image": "" },
+      { "phrase": "Holding up a test tube", "definition": "Cầm một ống nghiệm lên", "exampleSentences": [], "image": "" },
+      { "phrase": "Adjusting a scientific instrument", "definition": "Điều chỉnh một công cụ khoa học", "exampleSentences": [], "image": "" },
+      { "phrase": "Using laboratory equipment", "definition": "Sử dụng thiết bị thí nghiệm", "exampleSentences": [], "image": "" },
+      { "phrase": "Looking into a microscope", "definition": "Nhìn vào kính hiển vi", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Clothing",
+    "phrases": [
+      { "phrase": "Wearing a lab coat", "definition": "Mặc áo khoác phòng thí nghiệm", "exampleSentences": [], "image": "" },
+      { "phrase": "Wearing safety gloves", "definition": "Đeo găng tay bảo hộ", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Meetings",
+    "phrases": [
+      { "phrase": "Having a meeting", "definition": "Có một cuộc họp", "exampleSentences": [], "image": "" },
+      { "phrase": "Sitting opposite each other", "definition": "Ngồi đối diện nhau", "exampleSentences": [], "image": "" },
+      { "phrase": "Sitting across from each other", "definition": "Ngồi đối diện nhau", "exampleSentences": [], "image": "" },
+      { "phrase": "Writing in a notebook", "definition": "Viết vào vở", "exampleSentences": [], "image": "" },
+      { "phrase": "Setting up a projector", "definition": "Thiết lập máy chiếu", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Presentations",
+    "phrases": [
+      { "phrase": "Delivering/ making/ giving a presentation", "definition": "Thuyết trình", "exampleSentences": [], "image": "" },
+      { "phrase": "Attending a presentation", "definition": "Tham dự một buổi thuyết trình", "exampleSentences": [], "image": "" },
+      { "phrase": "Listening to a speaker", "definition": "Nghe một người nói", "exampleSentences": [], "image": "" },
+      { "phrase": "Facing a group of people", "definition": "Đối mặt với một nhóm người", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "At an airport",
+    "phrases": [
+      { "phrase": "Approaching an airport", "definition": "Tiếp cận một sân bay", "exampleSentences": [], "image": "" },
+      { "phrase": "Being loaded into", "definition": "Được chất vào", "exampleSentences": [], "image": "" },
+      { "phrase": "Being about to depart", "definition": "Sắp khởi hành", "exampleSentences": [], "image": "" },
+      { "phrase": "Carrying his luggage", "definition": "Mang hành lý của anh ấy", "exampleSentences": [], "image": "" },
+      { "phrase": "Checking the bags", "definition": "Kiểm tra túi", "exampleSentences": [], "image": "" },
+      { "phrase": "Inspecting some luggage", "definition": "Kiểm tra một số hành lý", "exampleSentences": [], "image": "" },
+      { "phrase": "Claiming one's luggage", "definition": "Nhận hành lý", "exampleSentences": [], "image": "" },
+      { "phrase": "Descending the staircase", "definition": "Đi xuống cầu thang", "exampleSentences": [], "image": "" },
+      { "phrase": "Having been shut down", "definition": "Đã bị đóng cửa", "exampleSentences": [], "image": "" },
+      { "phrase": "Having taken off", "definition": "Đã cất cánh", "exampleSentences": [], "image": "" },
+      { "phrase": "Landing at the airport", "definition": "Hạ cánh xuống sân bay", "exampleSentences": [], "image": "" },
+      { "phrase": "Being ready to leave the plane", "definition": "Sẵn sàng rời máy bay", "exampleSentences": [], "image": "" },
+      { "phrase": "Moving one's luggage", "definition": "Di chuyển hành lý", "exampleSentences": [], "image": "" },
+      { "phrase": "Taking one's bag from the airplane", "definition": "Lấy một chiếc túi từ máy bay", "exampleSentences": [], "image": "" },
+      { "phrase": "Waiting at the terminal", "definition": "Chờ đợi ở nhà ga", "exampleSentences": [], "image": "" },
+      { "phrase": "Waiting in a line", "definition": "Xếp hàng chờ đợi", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "At a hotel",
+    "phrases": [
+      { "phrase": "Checking into the hotel", "definition": "Nhận phòng khách sạn", "exampleSentences": [], "image": "" },
+      { "phrase": "Checking out of the hotel", "definition": "Trả phòng khách sạn", "exampleSentences": [], "image": "" },
+      { "phrase": "Making the bed", "definition": "Dọn giường", "exampleSentences": [], "image": "" },
+      { "phrase": "Need to be cleaned up", "definition": "Cần được dọn dẹp", "exampleSentences": [], "image": "" },
+      { "phrase": "Piling luggage on a cart", "definition": "Chất đống hành lý trên xe đẩy", "exampleSentences": [], "image": "" },
+      { "phrase": "Pulling a piece of luggage", "definition": "Kéo một kiện hành lý", "exampleSentences": [], "image": "" },
+      { "phrase": "Reserving a hotel room", "definition": "Đặt phòng khách sạn", "exampleSentences": [], "image": "" },
+      { "phrase": "Smiling at a customer", "definition": "Mỉm cười với khách hàng", "exampleSentences": [], "image": "" },
+      { "phrase": "Standing at the front desk", "definition": "Đứng ở quầy lễ tân", "exampleSentences": [], "image": "" },
+      { "phrase": "Unpacking their suitcases", "definition": "Dỡ hành lý trong va li", "exampleSentences": [], "image": "" },
+      { "phrase": "Waiting for the elevator", "definition": "Chờ thang máy", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "At a library/bookshop",
+    "phrases": [
+      { "phrase": "Being on the top shelf", "definition": "Ở kệ trên cùng", "exampleSentences": [], "image": "" },
+      { "phrase": "Being stacked on the shelves", "definition": "Được xếp chồng lên kệ", "exampleSentences": [], "image": "" },
+      { "phrase": "Browsing in a bookstore", "definition": "Dạo quanh một hiệu sách", "exampleSentences": [], "image": "" },
+      { "phrase": "Checking out books", "definition": "Mượn sách", "exampleSentences": [], "image": "" },
+      { "phrase": "Putting away books", "definition": "Cất sách đi", "exampleSentences": [], "image": "" },
+      { "phrase": "Reaching for a book", "definition": "Với lấy một cuốn sách", "exampleSentences": [], "image": "" },
+      { "phrase": "Reviewing a book", "definition": "Đánh giá một cuốn sách", "exampleSentences": [], "image": "" },
+      { "phrase": "Shelving the journals", "definition": "Xếp tạp chí lên kệ", "exampleSentences": [], "image": "" },
+      { "phrase": "Taking out one's book", "definition": "Lấy sách ra", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "At a hospital",
+    "phrases": [
+      { "phrase": "Examining an X-ray image", "definition": "Kiểm tra hình ảnh X quang", "exampleSentences": [], "image": "" },
+      { "phrase": "Examining a patient", "definition": "Khám bệnh", "exampleSentences": [], "image": "" },
+      { "phrase": "Filling out a medical form", "definition": "Điền vào một biểu mẫu y tế", "exampleSentences": [], "image": "" },
+      { "phrase": "Getting an injection", "definition": "Tiêm thuốc", "exampleSentences": [], "image": "" },
+      { "phrase": "Handing out medication", "definition": "Phát thuốc", "exampleSentences": [], "image": "" },
+      { "phrase": "Having one's temperature taken", "definition": "Đo nhiệt độ", "exampleSentences": [], "image": "" },
+      { "phrase": "Reading the patient's records", "definition": "Đọc hồ sơ của bệnh nhân", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "At other places",
+    "phrases": [
+      { "phrase": "Admiring a painting", "definition": "Chiêm ngưỡng một bức tranh", "exampleSentences": [], "image": "" },
+      { "phrase": "Being alone in an art gallery", "definition": "Một mình trong một phòng trưng bày nghệ thuật", "exampleSentences": [], "image": "" },
+      { "phrase": "Baking the pies", "definition": "Nướng bánh", "exampleSentences": [], "image": "" },
+      { "phrase": "Being sliced", "definition": "Bị cắt lát", "exampleSentences": [], "image": "" },
+      { "phrase": "Arranging loaves of bread", "definition": "Sắp xếp những ổ bánh mì", "exampleSentences": [], "image": "" },
+      { "phrase": "Being closed to visitors", "definition": "Đóng cửa với du khách", "exampleSentences": [], "image": "" },
+      { "phrase": "Being filled with customers", "definition": "Đông nghẹt khách", "exampleSentences": [], "image": "" },
+      { "phrase": "Having been placed around the table", "definition": "Đã được đặt xung quanh bàn", "exampleSentences": [], "image": "" },
+      { "phrase": "Having been set out", "definition": "Đã được bố trí", "exampleSentences": [], "image": "" },
+      { "phrase": "Having one's fingernails painted", "definition": "Sơn móng tay", "exampleSentences": [], "image": "" },
+      { "phrase": "Being tied up in a bundle", "definition": "Được cột thành bó", "exampleSentences": [], "image": "" },
+      { "phrase": "Trimming the client's hair", "definition": "Cắt tỉa tóc của khách hàng", "exampleSentences": [], "image": "" },
+      { "phrase": "Wiping the table", "definition": "Lau bàn", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "Outside a building",
+    "phrases": [
+      { "phrase": "Being all identical", "definition": "Giống hệt nhau", "exampleSentences": [], "image": "" },
+      { "phrase": "Being built in a similar style", "definition": "Được xây theo phong cách tương tự nhau", "exampleSentences": [], "image": "" },
+      { "phrase": "Being rebuilt", "definition": "Được xây dựng lại", "exampleSentences": [], "image": "" },
+      { "phrase": "Polishing the handrail", "definition": "Đánh bóng lan can", "exampleSentences": [], "image": "" },
+      { "phrase": "Standing on the roof of the building", "definition": "Đứng trên mái nhà", "exampleSentences": [], "image": "" },
+      { "phrase": "Suspended from a window", "definition": "Được treo từ một cửa sổ", "exampleSentences": [], "image": "" },
+      { "phrase": "Having been opened to provide shade", "definition": "Đã được mở để cung cấp bóng râm", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "At an entrance",
+    "phrases": [
+      { "phrase": "Being arranged on the patio", "definition": "Được sắp xếp trên sân", "exampleSentences": [], "image": "" },
+      { "phrase": "Scrubbing the steps", "definition": "Cọ rửa các bậc thang", "exampleSentences": [], "image": "" }
+    ]
+  },
+  {
+    "topic": "In a garden",
+    "phrases": [
+      { "phrase": "Sitting on the porch", "definition": "Ngồi trên hiên nhà", "exampleSentences": [], "image": "" },
+      { "phrase": "Standing on a walkway", "definition": "Đứng ở lối đi", "exampleSentences": [], "image": "" },
+      { "phrase": "Being picked in the garden", "definition": "Được hái trong vườn", "exampleSentences": [], "image": "" },
+      { "phrase": "Building a fence", "definition": "Xây dựng hàng rào", "exampleSentences": [], "image": "" },
+      { "phrase": "Mowing the lawn", "definition": "Cắt cỏ", "exampleSentences": [], "image": "" },
+      { "phrase": "Trimming the branches of the tree", "definition": "Cắt tỉa cành cây", "exampleSentences": [], "image": "" },
+      { "phrase": "Watering the plants", "definition": "Tưới cây", "exampleSentences": [], "image": "" },
+      { "phrase": "Hanging from a pole", "definition": "Treo trên cột", "exampleSentences": [], "image": "" },
+      { "phrase": "Browsing plants", "definition": "Dạo xem cây", "exampleSentences": [], "image": "" },
+      { "phrase": "Sowing the seeds", "definition": "Gieo hạt", "exampleSentences": [], "image": "" }
+    ]
+  }
+]

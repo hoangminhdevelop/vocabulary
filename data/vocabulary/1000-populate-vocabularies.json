@@ -1,0 +1,7429 @@
+{
+  "topic": "1000 Common Words",
+  "words": [
+    {
+      "word": "a",
+      "type": "Danh từ",
+      "IPA": "/ə/",
+      "definition": "một",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ability",
+      "type": "danh từ",
+      "IPA": "/əˈbɪlɪti/",
+      "definition": "khả năng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "able",
+      "type": "tính từ",
+      "IPA": "/ˈeɪbl/",
+      "definition": "có khả năng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "about",
+      "type": "giới từ",
+      "IPA": "/əˈbaʊt/",
+      "definition": "khoảng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "above",
+      "type": "giới từ",
+      "IPA": "/əˈbʌv/",
+      "definition": "trên, phía trên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "accept",
+      "type": "động từ",
+      "IPA": "/əkˈsept/",
+      "definition": "chấp nhận",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "according (to)",
+      "type": "giới từ",
+      "IPA": "/əˈkɔːrdɪŋ/",
+      "definition": "theo",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "account",
+      "type": "danh từ",
+      "IPA": "/əˈkaʊnt/",
+      "definition": "tài khoản",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "across",
+      "type": "giới từ",
+      "IPA": "/əˈkrɒs/",
+      "definition": "Đi qua",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "act",
+      "type": "động từ",
+      "IPA": "/ækt/",
+      "definition": "hành động, đóng vai.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "action",
+      "type": "danh từ",
+      "IPA": "/ˈækʃən/",
+      "definition": "hành động, hành vi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "activity",
+      "type": "danh từ",
+      "IPA": "/ækˈtɪvəti/",
+      "definition": "hoạt động.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "actually",
+      "type": "trạng từ",
+      "IPA": "/ˈæktʃuəli/",
+      "definition": "thực sự, trong thực tế.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "add",
+      "type": "động từ",
+      "IPA": "/æd/",
+      "definition": "cộng thêm, thêm vào.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "address",
+      "type": "danh từ",
+      "IPA": "/əˈdres/",
+      "definition": "địa chỉ, nói chuyện với ai đó, giải quyết.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "administration",
+      "type": "danh từ",
+      "IPA": "/ədˌmɪnɪˈstreɪʃən/",
+      "definition": "quản lý, sự điều hành.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "admit",
+      "type": "động từ",
+      "IPA": "/ədˈmɪt/",
+      "definition": "thừa nhận, cho vào, công nhận.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "adult",
+      "type": "danh từ",
+      "IPA": "/ˈædʌlt/",
+      "definition": "người trưởng thành.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "affect",
+      "type": "động từ",
+      "IPA": "/əˈfekt/",
+      "definition": "ảnh hưởng, tác động.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "after",
+      "type": "động từ",
+      "IPA": "/ˈæftɚ/",
+      "definition": "sau, sau khi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "again",
+      "type": "giới từ",
+      "IPA": "/əˈɡen/",
+      "definition": "lại, một lần nữa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "against",
+      "type": "động từ",
+      "IPA": "/əˈɡenst/",
+      "definition": "chống lại, phản đối.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "age",
+      "type": "danh từ",
+      "IPA": "/eɪdʒ/",
+      "definition": "tuổi, thời gian sống.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "agency",
+      "type": "danh từ",
+      "IPA": "/ˈeɪdʒənsi/",
+      "definition": "cơ quan, công ty, đại lý.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "agent",
+      "type": "danh từ",
+      "IPA": "/ˈeɪdʒənt/",
+      "definition": "đại lý, người đại diện.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ago",
+      "type": "trạng từ",
+      "IPA": "/əˈɡoʊ/",
+      "definition": "trước đây, cách đây.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "agree",
+      "type": "động từ",
+      "IPA": "/əˈɡri/",
+      "definition": "đồng ý, đồng thuận.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "agreement",
+      "type": "danh từ",
+      "IPA": "/əˈɡriːmənt/",
+      "definition": "sự đồng ý, hợp đồng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ahead",
+      "type": "giới từ",
+      "IPA": "/əˈhed/",
+      "definition": "phía trước, trước mặt.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "air",
+      "type": "danh từ",
+      "IPA": "/er/",
+      "definition": "không khí",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "all",
+      "type": "danh từ",
+      "IPA": "/ɔːl/",
+      "definition": "tất cả, mọi thứ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "allow",
+      "type": "động từ",
+      "IPA": "/əˈlaʊ/",
+      "definition": "cho phép, chấp nhận.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "almost",
+      "type": "trạng từ",
+      "IPA": "/ˈɔːlmoʊst/",
+      "definition": "gần như, hầu như.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "alone",
+      "type": "tính từ",
+      "IPA": "/əˈloʊn/",
+      "definition": "một mình, cô đơn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "along",
+      "type": "giới từ",
+      "IPA": "/əˈlɔːŋ/",
+      "definition": "dọc theo, cùng với.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "already",
+      "type": "trạng từ",
+      "IPA": "/ɔːlˈredi/",
+      "definition": "đã, đã xảy ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "also",
+      "type": "từ nối",
+      "IPA": "/ˈɔːlsoʊ/",
+      "definition": "cũng, cũng như.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "although",
+      "type": "từ nối",
+      "IPA": "/ɔːlˈðoʊ/",
+      "definition": "mặc dù, dù.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "always",
+      "type": "trạng từ",
+      "IPA": "/ˈɔːlweɪz/",
+      "definition": "luôn luôn, luôn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "American",
+      "type": "danh từ",
+      "IPA": "/əˈmerɪkən/",
+      "definition": "người Mỹ, thuộc về Mỹ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "among",
+      "type": "giới từ",
+      "IPA": "/əˈmʌŋ/",
+      "definition": "trong số, giữa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "amount",
+      "type": "danh từ",
+      "IPA": "/əˈmaʊnt/",
+      "definition": "số lượng, tổng số.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "analysis",
+      "type": "danh từ",
+      "IPA": "/əˈnæləsɪs/",
+      "definition": "phân tích, phân loại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "and",
+      "type": "từ nối",
+      "IPA": "/ænd/",
+      "definition": "và.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "animal",
+      "type": "danh từ",
+      "IPA": "/ˈænɪməl",
+      "definition": "động vật.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "another",
+      "type": "đại từ",
+      "IPA": "/əˈnʌðɚ/",
+      "definition": "một cái khác, một người khác.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "answer",
+      "type": "danh từ",
+      "IPA": "/ˈænsɚ/",
+      "definition": "câu trả lời, trả lời.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "any",
+      "type": "lượng từ",
+      "IPA": "/ˈeni/",
+      "definition": "bất kỳ, một số.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "anyone",
+      "type": "trạng từ",
+      "IPA": "/ˈeniwʌn/",
+      "definition": "bất kỳ ai, ai đó.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "anything",
+      "type": "trạng từ",
+      "IPA": "/ˈeniθɪŋ/",
+      "definition": "bất cứ điều gì, cái gì đó.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "appear",
+      "type": "động từ",
+      "IPA": "/əˈpɪr/",
+      "definition": "xuất hiện, hiện ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "apply",
+      "type": "động từ",
+      "IPA": "/əˈplaɪ/",
+      "definition": "áp dụng, nộp đơn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "approach",
+      "type": "danh từ",
+      "IPA": "/əˈproʊtʃ/",
+      "definition": "tiếp cận, phương pháp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "area",
+      "type": "danh từ",
+      "IPA": "/ˈeriə/",
+      "definition": "khu vực, diện tích.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "argue",
+      "type": "động từ",
+      "IPA": "/ˈɑːrɡjuː/",
+      "definition": "tranh luận, bàn cãi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "arm",
+      "type": "danh từ",
+      "IPA": "/ɑːrm/",
+      "definition": "cánh tay, vũ khí.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "around",
+      "type": "giới từ",
+      "IPA": "/əɚaʊnd/",
+      "definition": "xung quanh, xung quanh.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "arrive",
+      "type": "động từ",
+      "IPA": "/əɚaɪv/",
+      "definition": "đến, tới nơi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "art",
+      "type": "danh từ",
+      "IPA": "/ɑːrt/",
+      "definition": "nghệ thuật.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "article",
+      "type": "danh từ",
+      "IPA": "/ˈɑːrtɪkl/",
+      "definition": "bài báo, mục, mạo từ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "artist",
+      "type": "danh từ",
+      "IPA": "/ˈɑːrtɪst/",
+      "definition": "nghệ sĩ, họa sĩ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "as",
+      "type": "trạng từ",
+      "IPA": "/æz/",
+      "definition": "như, như là, khi, trong khi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ask",
+      "type": "động từ",
+      "IPA": "/æsk/",
+      "definition": "hỏi, yêu cầu, đề nghị.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "assume",
+      "type": "động từ",
+      "IPA": "/əˈsjuːm/",
+      "definition": "cho rằng, giả định.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "at",
+      "type": "giới từ",
+      "IPA": "/æt/",
+      "definition": "tại, ở.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "attack",
+      "type": "động từ",
+      "IPA": "/əˈtæk/",
+      "definition": "tấn công, công kích.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "attention",
+      "type": "danh từ",
+      "IPA": "/əˈtenʃən/",
+      "definition": "sự chú ý, sự tập trung.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "attorney",
+      "type": "danh từ",
+      "IPA": "/əˈtɜːrni/",
+      "definition": "luật sư, công tố viên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "audience",
+      "type": "danh từ",
+      "IPA": "/ˈɔːdiəns/",
+      "definition": "khán giả, công chúng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "author",
+      "type": "danh từ",
+      "IPA": "/ˈɔːθɚ/",
+      "definition": "tác giả, nhà văn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "authority",
+      "type": "danh từ",
+      "IPA": "/əˈθɔːrəti/",
+      "definition": "quyền lực, chính quyền.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "available",
+      "type": "tính từ",
+      "IPA": "/əˈveɪləbl/",
+      "definition": "có sẵn, có thể sử dụng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "avoid",
+      "type": "động từ",
+      "IPA": "/əˈvɔɪd/",
+      "definition": "tránh, né.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "away",
+      "type": "giới từ",
+      "IPA": "/əˈweɪ/",
+      "definition": "xa, đi xa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "baby",
+      "type": "danh từ",
+      "IPA": "/ˈbeɪbi/",
+      "definition": "em bé.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "back",
+      "type": "giới từ",
+      "IPA": "/bæk/",
+      "definition": "phía sau, trở lại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bad",
+      "type": "tính từ",
+      "IPA": "/bæd/",
+      "definition": "xấu, tồi, không tốt.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bag",
+      "type": "danh từ",
+      "IPA": "/bæɡ/",
+      "definition": "túi, cặp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ball",
+      "type": "danh từ",
+      "IPA": "/bɔːl/",
+      "definition": "quả bóng, quả cầu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bank",
+      "type": "danh từ",
+      "IPA": "/bæŋk/",
+      "definition": "ngân hàng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bar",
+      "type": "danh từ",
+      "IPA": "/bɑːr/",
+      "definition": "thanh, quầy, bar.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "base",
+      "type": "động từ",
+      "IPA": "/beɪs/",
+      "definition": "căn cứ, cơ sở.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "be",
+      "type": "động từ tobe",
+      "IPA": "/biː/",
+      "definition": "là, ở.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "beat",
+      "type": "động từ",
+      "IPA": "/biːt/",
+      "definition": "đánh, đập, đánh bại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "beautiful",
+      "type": "tính từ",
+      "IPA": "/ˈbjuːtɪfəl/",
+      "definition": "đẹp, xinh đẹp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "because",
+      "type": "từ nối",
+      "IPA": "/bɪˈkɔːz/",
+      "definition": "bởi vì, vì.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "become",
+      "type": "động từ",
+      "IPA": "/bɪˈkʌm/",
+      "definition": "trở thành, trở nên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bed",
+      "type": "danh từ",
+      "IPA": "/bed/",
+      "definition": "cái giường, nằm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "before",
+      "type": "giới từ",
+      "IPA": "/bɪˈfɔːr/",
+      "definition": "trước, trước khi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "begin",
+      "type": "động từ",
+      "IPA": "/bɪˈɡɪn/",
+      "definition": "bắt đầu, khởi đầu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "behavior",
+      "type": "danh từ",
+      "IPA": "/bɪˈheɪvjɚ/",
+      "definition": "hành vi, cách cư xử.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "behind",
+      "type": "giới từ",
+      "IPA": "/bɪˈhaɪnd/",
+      "definition": "phía sau, đằng sau.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "believe",
+      "type": "động từ",
+      "IPA": "/bɪˈliːv/",
+      "definition": "tin, tin tưởng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "benefit",
+      "type": "danh từ",
+      "IPA": "/ˈbenɪfɪt/",
+      "definition": "lợi ích, được lợi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "best",
+      "type": "tính từ",
+      "IPA": "/best/",
+      "definition": "tốt nhất, hay nhất.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "better",
+      "type": "tính từ",
+      "IPA": "/ˈbetɚ/",
+      "definition": "tốt hơn, tốt hơn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "between",
+      "type": "giới từ",
+      "IPA": "/bɪˈtwiːn /",
+      "definition": "giữa, ở giữa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "beyond",
+      "type": "giới từ",
+      "IPA": "/bɪˈjɑːnd/",
+      "definition": "vượt ra ngoài, xa hơn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "big",
+      "type": "tính từ",
+      "IPA": "/bɪɡ/",
+      "definition": "lớn, to.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bill",
+      "type": "danh từ",
+      "IPA": "/bɪl/",
+      "definition": "hóa đơn, tờ tiền.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "billion",
+      "type": "danh từ",
+      "IPA": "/ˈbɪljən/",
+      "definition": "tỷ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bit",
+      "type": "lượng từ",
+      "IPA": "/bɪt/",
+      "definition": "một chút, một ít.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "black",
+      "type": "danh từ",
+      "IPA": "/blæk/",
+      "definition": "đen, màu đen.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "blood",
+      "type": "danh từ",
+      "IPA": "/blʌd/",
+      "definition": "máu, huyết.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "blue",
+      "type": "danh từ",
+      "IPA": "/bluː/",
+      "definition": "màu xanh dương.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "board",
+      "type": "danh từ",
+      "IPA": "/bɔːrd/",
+      "definition": "tấm ván, ban quản trị.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "body",
+      "type": "danh từ",
+      "IPA": "/ˈbɑːdi/",
+      "definition": "cơ thể, thân thể.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "book",
+      "type": "danh từ",
+      "IPA": "/bʊk/",
+      "definition": "sách, đặt chỗ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "born",
+      "type": "động từ",
+      "IPA": "/bɔːrn/",
+      "definition": "sinh ra, được sinh ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "both",
+      "type": "từ nối",
+      "IPA": "/boʊθ/",
+      "definition": "cả hai, cùng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "box",
+      "type": "danh từ",
+      "IPA": "/bɒks /",
+      "definition": "hộp, thùng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "boy",
+      "type": "danh từ",
+      "IPA": "/bɔɪ/",
+      "definition": "cậu bé, con trai.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "break",
+      "type": "động từ",
+      "IPA": "/breɪk /",
+      "definition": "phá vỡ, nghỉ ngơi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "bring",
+      "type": "động từ",
+      "IPA": "/brɪŋ/",
+      "definition": "mang, đưa đến.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "brother",
+      "type": "danh từ",
+      "IPA": "/ˈbrʌðɚ/",
+      "definition": "anh em (nam).",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "budget",
+      "type": "danh từ",
+      "IPA": "/ˈbʌdʒɪt/",
+      "definition": "ngân sách, ngân sách.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "build",
+      "type": "động từ",
+      "IPA": "/bɪld/",
+      "definition": "xây dựng, xây nên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "building",
+      "type": "danh từ",
+      "IPA": "/ˈbɪldɪŋ/",
+      "definition": "tòa nhà, công trình xây dựng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "business",
+      "type": "danh từ",
+      "IPA": "/ˈbɪznəs/",
+      "definition": "kinh doanh, doanh nghiệp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "but",
+      "type": "từ nối",
+      "IPA": "/bʌt/",
+      "definition": "nhưng, tuy nhiên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "buy",
+      "type": "động từ",
+      "IPA": "/baɪ/",
+      "definition": "mua, mua sắm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "by",
+      "type": "giới từ",
+      "IPA": "/baɪ/",
+      "definition": "bởi, bên cạnh.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "call",
+      "type": "động từ",
+      "IPA": "/kɔːl/",
+      "definition": "gọi điện, gọi, kêu gọi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "camera",
+      "type": "động từ",
+      "IPA": "/ ˈkæmɚə/",
+      "definition": "máy ảnh, máy quay.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "campaign",
+      "type": "danh từ",
+      "IPA": "/kæmˈpeɪn/",
+      "definition": "chiến dịch, cuộc vận động.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "can",
+      "type": "động từ khuyết thiếu",
+      "IPA": "/kæn/",
+      "definition": "có thể.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cancer",
+      "type": "danh từ",
+      "IPA": "/ˈkænsɚ/",
+      "definition": "ung thư.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "candidate",
+      "type": "danh từ",
+      "IPA": "/ˈkændɪdət/",
+      "definition": "ứng viên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "capital",
+      "type": "danh từ",
+      "IPA": "/ˈkæpɪtl/",
+      "definition": "thủ đô, vốn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "car",
+      "type": "danh từ",
+      "IPA": "/kɑːr/",
+      "definition": "xe hơi, ô tô.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "card",
+      "type": "danh từ",
+      "IPA": "/kɑːrd/",
+      "definition": "thẻ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "career",
+      "type": "danh từ",
+      "IPA": "/kəɚɪr/",
+      "definition": "sự nghiệp, nghề nghiệp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "carry",
+      "type": "động từ",
+      "IPA": "/ˈkæri/",
+      "definition": "mang, vận chuyển.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "case",
+      "type": "danh từ",
+      "IPA": "/keɪs/",
+      "definition": "trường hợp, hộp đựng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "catch",
+      "type": "động từ",
+      "IPA": "/kætʃ/",
+      "definition": "bắt, nắm bắt.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cause",
+      "type": "động từ",
+      "IPA": "/kɔːz/",
+      "definition": "nguyên nhân, gây ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cell",
+      "type": "danh từ",
+      "IPA": "/sel/",
+      "definition": "tế bào, ngăn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "center",
+      "type": "danh từ",
+      "IPA": "/ˈsentɚ/",
+      "definition": "trung tâm, tâm điểm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "central",
+      "type": "tính từ",
+      "IPA": "/ˈsentrəl/",
+      "definition": "trung tâm, trung ương.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "century",
+      "type": "danh từ",
+      "IPA": "/ˈsentʃɚi/",
+      "definition": "thế kỷ, 100 năm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "certain",
+      "type": "tính từ",
+      "IPA": "/ˈsɜːrtən/",
+      "definition": "chắc chắn, nhất định.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "certainly",
+      "type": "trạng từ",
+      "IPA": "/ˈsɜːrtənli/",
+      "definition": "chắc chắn, nhất định.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "chair",
+      "type": "danh từ",
+      "IPA": "/tʃer/",
+      "definition": "ghế, chủ tịch.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "challenge",
+      "type": "danh từ",
+      "IPA": "/ˈtʃælɪndʒ/",
+      "definition": "thách thức, thử thách.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "chance",
+      "type": "danh từ",
+      "IPA": "/tʃæns/",
+      "definition": "cơ hội, may mắn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "change",
+      "type": "động từ",
+      "IPA": "/tʃeɪndʒ/",
+      "definition": "thay đổi, biến đổi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "character",
+      "type": "danh từ",
+      "IPA": "/ˈkærɪktɚ/",
+      "definition": "nhân vật, tính cách.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "charge",
+      "type": "động từ",
+      "IPA": "/tʃɑːrdʒ/",
+      "definition": "tính phí, cáo buộc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "check",
+      "type": "động từ",
+      "IPA": "/tʃek/",
+      "definition": "kiểm tra, thanh toán.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "child",
+      "type": "danh từ",
+      "IPA": "/ tʃaɪld/",
+      "definition": "trẻ em, đứa trẻ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "choice",
+      "type": "danh từ",
+      "IPA": "/tʃɔɪs/",
+      "definition": "sự lựa chọn, sự chọn lựa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "choose",
+      "type": "động từ",
+      "IPA": "/tʃuːz/",
+      "definition": "chọn, lựa chọn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "church",
+      "type": "danh từ",
+      "IPA": "/tʃɜːrtʃ/",
+      "definition": "nhà thờ, giáo đường.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "citizen",
+      "type": "danh từ",
+      "IPA": "/ ˈsɪtɪzn /",
+      "definition": "công dân, thành viên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "city",
+      "type": "danh từ",
+      "IPA": "/ˈsɪti/",
+      "definition": "thành phố.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "civil",
+      "type": "danh từ",
+      "IPA": "/ˈsɪvəl /",
+      "definition": "dân sự, công dân.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "claim",
+      "type": "động từ",
+      "IPA": "/kleɪm/",
+      "definition": "tuyên bố, đòi hỏi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "class",
+      "type": "danh từ",
+      "IPA": "/klæs/",
+      "definition": "lớp học, giai cấp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "clear",
+      "type": "tính từ",
+      "IPA": "/klɪr/",
+      "definition": "rõ ràng, trong sáng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "clearly",
+      "type": "trạng từ",
+      "IPA": "/ˈklɪrli/",
+      "definition": "rõ ràng, rành mạch.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "close",
+      "type": "động từ",
+      "IPA": "/kloʊz/",
+      "definition": "gần, đóng lại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "coach",
+      "type": "danh từ",
+      "IPA": "/koʊtʃ/",
+      "definition": "huấn luyện viên, xe khách.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cold",
+      "type": "tính từ",
+      "IPA": "/koʊld/",
+      "definition": "lạnh, cảm lạnh.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "collection",
+      "type": "danh từ",
+      "IPA": "/kəˈlekʃən/",
+      "definition": "bộ sưu tập, sự thu thập.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "college",
+      "type": "danh từ",
+      "IPA": "/ˈkɑːlɪdʒ/",
+      "definition": "trường đại học, trường cao đẳng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "color",
+      "type": "danh từ",
+      "IPA": "/ˈkʌlɚ/",
+      "definition": "màu sắc, sắc thái.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "come",
+      "type": "động từ",
+      "IPA": "/kʌm/",
+      "definition": "đến, đi đến.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "commercial",
+      "type": "tính từ",
+      "IPA": "/kəˈmɜːrʃəl/",
+      "definition": "quảng cáo, thương mại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "common",
+      "type": "tính từ",
+      "IPA": "/ˈkɑːmən/",
+      "definition": "phổ biến, chung.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "community",
+      "type": "danh từ",
+      "IPA": "/kəˈmjuːnɪti/",
+      "definition": "cộng đồng, cộng đồng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "company",
+      "type": "danh từ",
+      "IPA": "/ˈkʌmpəni/",
+      "definition": "công ty, công ty.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "compare",
+      "type": "động từ",
+      "IPA": "/kəmˈper/",
+      "definition": "so sánh, đối chiếu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "computer",
+      "type": "danh từ",
+      "IPA": "/ kəmˈpjuːtɚ/",
+      "definition": "máy tính, máy vi tính.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "concern",
+      "type": "Động từ",
+      "IPA": "/kənˈsɜrn/",
+      "definition": "quan tâm, lo ngại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "condition",
+      "type": "danh từ",
+      "IPA": "/kənˈdɪʃən/",
+      "definition": "điều kiện, trạng thái.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "conference",
+      "type": "danh từ",
+      "IPA": "/ˈkɑːnfɚəns/",
+      "definition": "hội nghị, cuộc họp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "Congress",
+      "type": "danh từ",
+      "IPA": "/ˈkɑːŋɡres /",
+      "definition": "Quốc hội, Đại hội.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "consider",
+      "type": "động từ",
+      "IPA": "/kənˈsɪdɚ/",
+      "definition": "xem xét, cân nhắc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "consumer",
+      "type": "danh từ",
+      "IPA": "/kənˈsuːmɚ/",
+      "definition": "người tiêu dùng, khách hàng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "contain",
+      "type": "động từ",
+      "IPA": "/kənˈteɪn/",
+      "definition": "chứa đựng, gồm có.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "continue",
+      "type": "động từ",
+      "IPA": "/kənˈtɪnjuː/",
+      "definition": "tiếp tục, duy trì.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "control",
+      "type": "động từ",
+      "IPA": "/kənˈtroʊl/",
+      "definition": "kiểm soát, quản lý.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cost",
+      "type": "động từ",
+      "IPA": "/kɔːst/",
+      "definition": "giá, chi phí.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "could",
+      "type": "động từ khuyết thiếu",
+      "IPA": "/kʊd/",
+      "definition": "có thể, có khả năng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "country",
+      "type": "danh từ",
+      "IPA": "/ˈkʌntri/",
+      "definition": "quốc gia, đất nước.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "couple",
+      "type": "danh từ",
+      "IPA": "/ˈkʌpl/",
+      "definition": "cặp đôi, hai người.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "course",
+      "type": "danh từ",
+      "IPA": "/kɔːrs/",
+      "definition": "khóa học, quá trình.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "court",
+      "type": "danh từ",
+      "IPA": "/kɔːrt/",
+      "definition": "tòa án, sân tennis.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cover",
+      "type": "động từ",
+      "IPA": "/ ˈkʌvɚ/",
+      "definition": "bìa, phủ, che đậy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "create",
+      "type": "động từ",
+      "IPA": "/kriˈeɪt/",
+      "definition": "tạo ra, sáng tạo.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "crime",
+      "type": "danh từ",
+      "IPA": "/kraɪm/",
+      "definition": "tội phạm, tội ác.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cultural",
+      "type": "tính từ",
+      "IPA": "/ˈkʌltʃɚəl/",
+      "definition": "văn hóa, thuộc văn hóa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "culture",
+      "type": "danh từ",
+      "IPA": "/ˈkʌltʃɚ/",
+      "definition": "văn hóa, văn minh.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cup",
+      "type": "danh từ",
+      "IPA": "/kʌp/",
+      "definition": "cốc, ly.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "current",
+      "type": "tính từ",
+      "IPA": "/ˈkɜːrənt/",
+      "definition": "hiện tại, dòng chảy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "customer",
+      "type": "danh từ",
+      "IPA": "/ˈkʌstəmɚ/",
+      "definition": "khách hàng, người mua hàng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "cut",
+      "type": "động từ",
+      "IPA": "/kʌt/",
+      "definition": "cắt, chặt.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "dark",
+      "type": "tính từ",
+      "IPA": "/dɑːrk/",
+      "definition": "tối, đen.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "data",
+      "type": "danh từ",
+      "IPA": "/ˈdeɪtə/",
+      "definition": "dữ liệu, thông tin.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "daughter",
+      "type": "danh từ",
+      "IPA": "/ˈdɔːtɚ/",
+      "definition": "con gái, con ruột.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "day",
+      "type": "danh từ",
+      "IPA": "/deɪ/",
+      "definition": "ngày, buổi ban ngày.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "dead",
+      "type": "động từ",
+      "IPA": "/ded/",
+      "definition": "chết, đã mất.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "deal",
+      "type": "động từ",
+      "IPA": "/diːl/",
+      "definition": "thỏa thuận, giao dịch.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "death",
+      "type": "danh từ",
+      "IPA": "/deθ/",
+      "definition": "cái chết, sự qua đời.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "debate",
+      "type": "động từ",
+      "IPA": "/dɪˈbeɪt/",
+      "definition": "tranh luận, cuộc tranh cãi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "decade",
+      "type": "danh từ",
+      "IPA": "/ˈdekeɪd/",
+      "definition": "thập kỷ, mười năm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "decide",
+      "type": "động từ",
+      "IPA": "/dɪˈsaɪd/",
+      "definition": "quyết định, giải quyết.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "decision",
+      "type": "danh từ",
+      "IPA": "/dɪˈsɪʒən/",
+      "definition": "quyết định, sự đánh giá.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "deep",
+      "type": "tính từ",
+      "IPA": "/diːp/",
+      "definition": "sâu, sự sâu sắc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "defense",
+      "type": "động từ",
+      "IPA": "/dɪˈfens/",
+      "definition": "phòng vệ, bảo vệ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "degree",
+      "type": "động từ",
+      "IPA": "/dɪˈɡriː/",
+      "definition": "bằng cấp, độ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "Democrat",
+      "type": "danh từ",
+      "IPA": "/ˈdeməkræt /",
+      "definition": "người Dân chủ, Đảng Dân chủ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "democratic",
+      "type": "tính từ",
+      "IPA": "/ˌdeməˈkrætɪk/",
+      "definition": "dân chủ, dân chủ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "describe",
+      "type": "động từ",
+      "IPA": "/dɪsˈkraɪb/",
+      "definition": "mô tả, miêu tả.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "design",
+      "type": "danh từ",
+      "IPA": "/dɪˈzaɪn/",
+      "definition": "thiết kế, bản thiết kế.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "despite",
+      "type": "giới từ",
+      "IPA": "/dɪˈspaɪt/",
+      "definition": "mặc dù, bất chấp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "detail",
+      "type": "danh từ",
+      "IPA": "/ˈdiːteɪl/",
+      "definition": "chi tiết, đặc điểm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "determine",
+      "type": "động từ",
+      "IPA": "/dɪˈtɜːrmɪn/",
+      "definition": "xác định, quyết định.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "develop",
+      "type": "động từ",
+      "IPA": "/dɪˈveləp/",
+      "definition": "phát triển, tiến bộ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "development",
+      "type": "danh từ",
+      "IPA": "/dɪˈveləpmənt/",
+      "definition": "sự phát triển, quá trình phát triển.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "die",
+      "type": "động từ",
+      "IPA": "/daɪ/",
+      "definition": "chết, qua đời.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "difference",
+      "type": "danh từ",
+      "IPA": "/ˈdɪfɚəns/",
+      "definition": "sự khác biệt, sự khác nhau.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "different",
+      "type": "tính từ",
+      "IPA": "/ˈdɪfɚənt/",
+      "definition": "khác nhau, khác biệt.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "difficult",
+      "type": "tính từ",
+      "IPA": "/ˈdɪfɪkəlt/",
+      "definition": "khó khăn, khó.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "dinner",
+      "type": "danh từ",
+      "IPA": "/ˈdɪnɚ/",
+      "definition": "bữa tối, bữa ăn tối.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "direction",
+      "type": "danh từ",
+      "IPA": "/dɪˈrekʃən/",
+      "definition": "hướng, phương hướng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "director",
+      "type": "danh từ",
+      "IPA": "/dɪˈrektɚ/",
+      "definition": "giám đốc, đạo diễn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "discover",
+      "type": "động từ",
+      "IPA": "/ dɪˈskʌvɚ/",
+      "definition": "khám phá, tìm ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "discuss",
+      "type": "động từ",
+      "IPA": "/dɪˈskʌs/",
+      "definition": "thảo luận, bàn thảo.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "discussion",
+      "type": "danh từ",
+      "IPA": "/dɪˈskʌʃən/",
+      "definition": "cuộc thảo luận, cuộc bàn thảo.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "disease",
+      "type": "danh từ",
+      "IPA": "/dɪˈziz/",
+      "definition": "bệnh tật, căn bệnh.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "do",
+      "type": "động từ",
+      "IPA": "/duː/",
+      "definition": "làm, thực hiện.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "doctor",
+      "type": "danh từ",
+      "IPA": "/ˈdɑːktɚ/",
+      "definition": "bác sĩ, y tá.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "dog",
+      "type": "danh từ",
+      "IPA": "/dɔːɡ/",
+      "definition": "chó, con chó.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "door",
+      "type": "danh từ",
+      "IPA": "/dɔːr/",
+      "definition": "cửa, cánh cửa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "down",
+      "type": "giới từ",
+      "IPA": "/daʊn/",
+      "definition": "xuống, về phía dưới.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "draw",
+      "type": "động từ",
+      "IPA": "/drɔː/",
+      "definition": "vẽ, kéo.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "dream",
+      "type": "danh từ",
+      "IPA": "/driːm/",
+      "definition": "giấc mơ, mơ mộng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "drive",
+      "type": "động từ",
+      "IPA": "/draɪv/",
+      "definition": "lái xe, điều khiển.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "drop",
+      "type": "động từ",
+      "IPA": "/drɑːp /",
+      "definition": "rơi, làm rơi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "drug",
+      "type": "danh từ",
+      "IPA": "/drʌɡ/",
+      "definition": "thuốc, chất ma túy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "during",
+      "type": "giới từ",
+      "IPA": "ˈdʊrɪŋ /",
+      "definition": "trong suốt, trong khoảng thời gian.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "each",
+      "type": "lượng từ",
+      "IPA": "/iːtʃ/",
+      "definition": "mỗi, từng cái.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "early",
+      "type": "trạng từ",
+      "IPA": "/ˈɜːrli/",
+      "definition": "sớm, sớm hơn thường lệ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "east",
+      "type": "danh từ",
+      "IPA": "/iːst/",
+      "definition": "phía đông.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "easy",
+      "type": "tính từ",
+      "IPA": "/ ˈiːzi/",
+      "definition": "dễ dàng, đơn giản.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "eat",
+      "type": "động từ",
+      "IPA": "/iːt/",
+      "definition": "ăn, ăn uống.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "economic",
+      "type": "tính từ",
+      "IPA": "/ˌiːkəˈnɑːmɪk/",
+      "definition": "kinh tế, liên quan đến kinh tế.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "economy",
+      "type": "danh từ",
+      "IPA": "/ɪˈkɑːnəmi/",
+      "definition": "nền kinh tế, kinh tế.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "edge",
+      "type": "danh từ",
+      "IPA": "/edʒ/",
+      "definition": "mép, cạnh.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "education",
+      "type": "danh từ",
+      "IPA": "/ˌedʒʊˈkeɪʃən/",
+      "definition": "giáo dục, sự giáo dục.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "effect",
+      "type": "danh từ",
+      "IPA": "/ ɪˈfekt/",
+      "definition": "hiệu quả, tác động.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "effort",
+      "type": "danh từ",
+      "IPA": "/ ˈefɚt/",
+      "definition": "nỗ lực, sự cố gắng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "eight",
+      "type": "danh từ",
+      "IPA": "/eɪt/",
+      "definition": "tám, số tám.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "either",
+      "type": "trạng từ",
+      "IPA": "/ˈiːðɚ/",
+      "definition": "hoặc là, một trong hai.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "election",
+      "type": "danh từ",
+      "IPA": "/ɪˈlekʃən/",
+      "definition": "cuộc bầu cử, sự bỏ phiếu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "else",
+      "type": "trạng từ",
+      "IPA": "/els/",
+      "definition": "khác, nếu không.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "employee",
+      "type": "danh từ",
+      "IPA": "/ɪmˈplɔɪiː/",
+      "definition": "nhân viên, người lao động.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "end",
+      "type": "động từ",
+      "IPA": "/ end/",
+      "definition": "cuối, kết thúc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "energy",
+      "type": "danh từ",
+      "IPA": "/ ˈenɚdʒi/",
+      "definition": "năng lượng, sinh lực.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "enjoy",
+      "type": "động từ",
+      "IPA": "/ɪnˈdʒɔɪ/",
+      "definition": "thưởng thức, tận hưởng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "enough",
+      "type": "lượng từ",
+      "IPA": "/ɪˈnʌf/",
+      "definition": "đủ, đủ rồi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "enter",
+      "type": "động từ",
+      "IPA": "/ ˈentɚ/",
+      "definition": "đi vào, nhập vào.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "entire",
+      "type": "tính từ",
+      "IPA": "/ɪnˈtaɪɚ/",
+      "definition": "toàn bộ, hoàn toàn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "environment",
+      "type": "danh từ",
+      "IPA": "/ɪnˈvaɪrənmənt /",
+      "definition": "môi trường, môi trường sống.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "environmental",
+      "type": "tính từ",
+      "IPA": "/ɪnˌvaɪrənˈmentəl/",
+      "definition": "liên quan đến môi trường, về môi trường.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "especially",
+      "type": "trạng từ",
+      "IPA": "/ɪˈspeʃəli/",
+      "definition": "đặc biệt, nhất là.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "establish",
+      "type": "động từ",
+      "IPA": "/ɪˈstæblɪʃ/",
+      "definition": "thành lập, thiết lập.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "even",
+      "type": "trạng từ",
+      "IPA": "/ˈiːvn/",
+      "definition": "ngay cả, ngay cả khi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "evening",
+      "type": "danh từ",
+      "IPA": "/ˈiːvnɪŋ/",
+      "definition": "buổi tối, tối.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "event",
+      "type": "danh từ",
+      "IPA": "/ɪˈvent/",
+      "definition": "sự kiện, sự việc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ever",
+      "type": "Trạng từ",
+      "IPA": "/ˈevɚ/",
+      "definition": "từng, mọi khi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "every",
+      "type": "lượng từ",
+      "IPA": "/ˈevri/",
+      "definition": "mỗi, mọi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "everybody",
+      "type": "danh từ",
+      "IPA": "/ˈevribɑːdi/",
+      "definition": "mọi người, tất cả mọi người.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "everyone",
+      "type": "danh từ",
+      "IPA": "/ˈevrɪwʌn/",
+      "definition": "mỗi người, tất cả mọi người.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "everything",
+      "type": "danh từ",
+      "IPA": "/ˈevriθɪŋ/",
+      "definition": "mọi thứ, tất cả mọi thứ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "evidence",
+      "type": "danh từ",
+      "IPA": "/ˈevɪdəns/",
+      "definition": "bằng chứng, tài liệu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "exactly",
+      "type": "trạng từ",
+      "IPA": "/ɪɡˈzæktli/",
+      "definition": "chính xác, đúng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "example",
+      "type": "danh từ",
+      "IPA": "/ɪɡˈzæmpl̩/",
+      "definition": "ví dụ, gương mẫu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "executive",
+      "type": "tính từ",
+      "IPA": "/ɪɡˈzekjətɪv/",
+      "definition": "điều hành, quản lý.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "exist",
+      "type": "động từ",
+      "IPA": "/ ɪɡˈzɪst/",
+      "definition": "tồn tại, có thực.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "expect",
+      "type": "động từ",
+      "IPA": "/ɪkˈspekt/",
+      "definition": "mong đợi, dự đoán.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "experience",
+      "type": "danh từ",
+      "IPA": "/ɪkˈspɪriəns/",
+      "definition": "kinh nghiệm, trải nghiệm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "expert",
+      "type": "danh từ",
+      "IPA": "/ˈekspɜrt/",
+      "definition": "chuyên gia, chuyên viên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "explain",
+      "type": "động từ",
+      "IPA": "/ɪkˈspleɪn/",
+      "definition": "giải thích, làm rõ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "eye",
+      "type": "danh từ",
+      "IPA": "/aɪ/",
+      "definition": "mắt, con mắt.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "face",
+      "type": "danh từ",
+      "IPA": "/feɪs/",
+      "definition": "mặt, khuôn mặt.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fact",
+      "type": "danh từ",
+      "IPA": "/fækt/",
+      "definition": "sự thật, thực tế.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "factor",
+      "type": "danh từ",
+      "IPA": "/ˈfæktɚ/",
+      "definition": "yếu tố, nhân tố.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fail",
+      "type": "động từ",
+      "IPA": "/feɪl/",
+      "definition": "thất bại, không thành công.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fall",
+      "type": "động từ",
+      "IPA": "/fɔːl/",
+      "definition": "rơi, ngã, sụp đổ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "family",
+      "type": "danh từ",
+      "IPA": "/ˈfæməli/",
+      "definition": "gia đình, họ hàng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "far",
+      "type": "động từ",
+      "IPA": "/fɑːr/",
+      "definition": "xa, xa xôi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fast",
+      "type": "tính từ",
+      "IPA": "/fæst/",
+      "definition": "nhanh, nhanh chóng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "father",
+      "type": "danh từ",
+      "IPA": "/ˈfɑːðɚ/",
+      "definition": "cha, bố.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fear",
+      "type": "động từ",
+      "IPA": "/fɪr/",
+      "definition": "sợ, sợ hãi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "federal",
+      "type": "danh từ",
+      "IPA": "/ˈfedɚəl/",
+      "definition": "liên bang, liên bang hóa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "feel",
+      "type": "động từ",
+      "IPA": "/fiːl/",
+      "definition": "cảm thấy, cảm nhận.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "feeling",
+      "type": "danh từ",
+      "IPA": "/ˈfiːlɪŋ/",
+      "definition": "cảm giác, tình cảm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "few",
+      "type": "lượng từ",
+      "IPA": "/fjuː /",
+      "definition": "vài, một ít.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "field",
+      "type": "danh từ",
+      "IPA": "/fiːld/",
+      "definition": "cánh đồng, bãi, lĩnh vực.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fight",
+      "type": "danh từ",
+      "IPA": "/faɪt/",
+      "definition": "chiến đấu, đánh nhau.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "figure",
+      "type": "danh từ",
+      "IPA": "/ˈfɪɡjɚ/",
+      "definition": "hình dạng, số liệu, con số.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fill",
+      "type": "động từ",
+      "IPA": "/fɪl/",
+      "definition": "lấp đầy, điền vào.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "film",
+      "type": "danh từ",
+      "IPA": "/fɪlm/",
+      "definition": "phim, bộ phim.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "final",
+      "type": "tính từ",
+      "IPA": "/ˈfaɪnəl/",
+      "definition": "cuối cùng, sau cùng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "finally",
+      "type": "trạng từ",
+      "IPA": "/ˈfaɪnəli/",
+      "definition": "cuối cùng, sau cùng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "financial",
+      "type": "tính từ",
+      "IPA": "/faɪˈnænʃəl/",
+      "definition": "tài chính, về tài chính.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "find",
+      "type": "động từ",
+      "IPA": "/faɪnd/",
+      "definition": "tìm thấy, phát hiện.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fine",
+      "type": "tính từ",
+      "IPA": "/faɪn/",
+      "definition": "tốt, tuyệt vời, phạt tiền.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "finger",
+      "type": "danh từ",
+      "IPA": "/ˈfɪŋɡɚ/",
+      "definition": "ngón tay.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "finish",
+      "type": "động từ",
+      "IPA": "/ˈfɪnɪʃ/",
+      "definition": "hoàn thành, kết thúc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fire",
+      "type": "danh từ",
+      "IPA": "/faɪr/",
+      "definition": "ửa, cháy, sa thải.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "firm",
+      "type": "danh từ",
+      "IPA": "/fɜːrm/",
+      "definition": "công ty, công ty cố định, vững chắc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "first",
+      "type": "số thứ tự",
+      "IPA": "/fɜːrst/",
+      "definition": "đầu tiên, trước tiên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fish",
+      "type": "danh từ",
+      "IPA": "/fɪʃ/",
+      "definition": "cá, câu cá.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "five",
+      "type": "danh từ",
+      "IPA": "/faɪv/",
+      "definition": "năm, số năm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "floor",
+      "type": "danh từ",
+      "IPA": "/flɔːr/",
+      "definition": "sàn nhà, tầng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fly",
+      "type": "động từ",
+      "IPA": "/flaɪ/",
+      "definition": "bay, con ruồi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "focus",
+      "type": "động từ",
+      "IPA": "/ˈfoʊkəs/",
+      "definition": "tập trung, nhìn chăm chú.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "follow",
+      "type": "động từ",
+      "IPA": "/ˈfɑːloʊ/",
+      "definition": "theo sau, đi theo.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "food",
+      "type": "danh từ",
+      "IPA": "/fuːd/",
+      "definition": "thức ăn, đồ ăn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "foot",
+      "type": "danh từ",
+      "IPA": "/fʊt/",
+      "definition": "chân, bàn chân.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "for",
+      "type": "giới từ",
+      "IPA": "/fɔːr/",
+      "definition": "cho, vì, để.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "force",
+      "type": "động từ",
+      "IPA": "/fɔːrs/",
+      "definition": "lực, cưỡng bức, ép buộc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "foreign",
+      "type": "danh từ",
+      "IPA": "/ˈfɔːrɪn/",
+      "definition": "nước ngoài, ngoại quốc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "forget",
+      "type": "động từ",
+      "IPA": "/fɚɡet/",
+      "definition": "quên, quên đi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "form",
+      "type": "động từ",
+      "IPA": "/fɔːrm/",
+      "definition": "hình thức, form.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "former",
+      "type": "tính từ",
+      "IPA": "/ˈfɔːrmɚ/",
+      "definition": "trước, nguyên, cũ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "forward",
+      "type": "giới từ",
+      "IPA": "/ˈfɔːrwɚd/",
+      "definition": "về phía trước, tiến lên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "four",
+      "type": "danh từ",
+      "IPA": "/fɔːr/",
+      "definition": "bốn, số bốn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "free",
+      "type": "tính từ",
+      "IPA": "/friː/",
+      "definition": "miễn phí, tự do.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "friend",
+      "type": "danh từ",
+      "IPA": "/frend/",
+      "definition": "bạn, người bạn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "from",
+      "type": "giới từ",
+      "IPA": "/frɒm/",
+      "definition": "từ, từ phía.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "front",
+      "type": "giới từ",
+      "IPA": "/frʌnt/",
+      "definition": "mặt trước, phía trước.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "full",
+      "type": "tính từ",
+      "IPA": "/fʊl/",
+      "definition": "đầy đủ, đầy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "fund",
+      "type": "danh từ",
+      "IPA": "/fʌnd/",
+      "definition": "quỹ, quỹ tiền, quỹ tài chính.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "future",
+      "type": "danh từ",
+      "IPA": "/ˈfjuːtʃɚ /",
+      "definition": "tương lai, tương lai hơn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "game",
+      "type": "danh từ",
+      "IPA": "/ɡeɪm/",
+      "definition": "trò chơi, trò thể thao.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "garden",
+      "type": "danh từ",
+      "IPA": "/ˈɡɑːrdn/",
+      "definition": "vườn, khu vườn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "gas",
+      "type": "danh từ",
+      "IPA": "/ɡæs/",
+      "definition": "khí, khí gas.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "general",
+      "type": "tính từ",
+      "IPA": "/ˈdʒenɚəl/",
+      "definition": "tổng quát, chung, tướng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "generation",
+      "type": "danh từ",
+      "IPA": "/ ˌdʒenəɚeɪʃən/",
+      "definition": "thế hệ, đời, sự sinh ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "get",
+      "type": "động từ",
+      "IPA": "/ɡet/",
+      "definition": "nhận được, đạt được.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "girl",
+      "type": "danh từ",
+      "IPA": "/ɡɜːrl/",
+      "definition": "cô gái, con gái.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "give",
+      "type": "động từ",
+      "IPA": "/ɡɪv/",
+      "definition": "cho, tặng, đưa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "glass",
+      "type": "danh từ",
+      "IPA": "/ɡlæs/",
+      "definition": "ly, cốc, kính.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "go",
+      "type": "động từ",
+      "IPA": "/ɡoʊ/",
+      "definition": "đi, đi ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "goal",
+      "type": "danh từ",
+      "IPA": "/ɡoʊl/",
+      "definition": "mục tiêu, bàn thắng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "good",
+      "type": "tính từ",
+      "IPA": "/ɡʊd/",
+      "definition": "tốt, tốt đẹp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "government",
+      "type": "danh từ",
+      "IPA": "/ˈɡʌvɚnmənt/",
+      "definition": "chính phủ, chính quyền.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "great",
+      "type": "tính từ",
+      "IPA": "/ɡreɪt/",
+      "definition": "tuyệt vời, vĩ đại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "green",
+      "type": "danh từ",
+      "IPA": "/ɡriːn/",
+      "definition": "màu xanh lá cây, xanh.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ground",
+      "type": "danh từ",
+      "IPA": "/ɡraʊnd/",
+      "definition": "mặt đất, bãi đất, sân.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "group",
+      "type": "danh từ",
+      "IPA": "/ɡruːp/",
+      "definition": "nhóm, nhóm hợp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "grow",
+      "type": "động từ",
+      "IPA": "/ɡroʊ/",
+      "definition": "mọc, phát triển, trưởng thành.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "growth",
+      "type": "danh từ",
+      "IPA": "/ɡroʊθ/",
+      "definition": "sự tăng trưởng, sự phát triển.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "guess",
+      "type": "động từ",
+      "IPA": "/ɡes/",
+      "definition": "đoán, phỏng đoán, ước chừng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "gun",
+      "type": "danh từ",
+      "IPA": "/ɡʌn/",
+      "definition": "súng, khẩu súng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "guy",
+      "type": "danh từ",
+      "IPA": "/ɡaɪ/",
+      "definition": "chàng trai, chàng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hair",
+      "type": "danh từ",
+      "IPA": "/her/",
+      "definition": "tóc, mái tóc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "half",
+      "type": "lượng từ",
+      "IPA": "/hæf/",
+      "definition": "một nửa, nửa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hand",
+      "type": "danh từ",
+      "IPA": "/hænd/",
+      "definition": "tay, bàn tay.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hang",
+      "type": "động từ",
+      "IPA": "/hæŋ/",
+      "definition": "treo, mắc, treo lên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "happen",
+      "type": "động từ",
+      "IPA": "/ˈhæpən/",
+      "definition": "xảy ra, xảy đến.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "happy",
+      "type": "tính từ",
+      "IPA": "/ˈhæpi/",
+      "definition": "vui vẻ, hạnh phúc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hard",
+      "type": "tính từ",
+      "IPA": "/hɑːrd/",
+      "definition": "khó khăn, cứng, cứng rắn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "have",
+      "type": "động từ",
+      "IPA": "/hæv/",
+      "definition": "có, sở hữu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "he",
+      "type": "đại từ",
+      "IPA": "/hiː/",
+      "definition": "anh ấy, ông ấy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "head",
+      "type": "danh từ",
+      "IPA": "/hed /",
+      "definition": "đầu, phần đầu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "health",
+      "type": "danh từ",
+      "IPA": "/helθ",
+      "definition": "sức khỏe, tình trạng sức khỏe.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hear",
+      "type": "động từ",
+      "IPA": "/hɪr/",
+      "definition": "nghe, lắng nghe.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "heart",
+      "type": "danh từ",
+      "IPA": "/hɑːrt/",
+      "definition": "trái tim, lòng trắc ẩn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "heat",
+      "type": "danh từ",
+      "IPA": "/hit/",
+      "definition": "nhiệt, sức nóng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "heavy",
+      "type": "tính từ",
+      "IPA": "/ˈhevi/",
+      "definition": "nặng, nặng nề.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "help",
+      "type": "động từ",
+      "IPA": "/help/",
+      "definition": "giúp đỡ, trợ giúp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "her",
+      "type": "đại từ",
+      "IPA": "/hɚ/",
+      "definition": "cô ấy, bà ấy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "here",
+      "type": "trạng từ",
+      "IPA": "/hɪr/",
+      "definition": "ở đây, tại đây.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "herself",
+      "type": "đại từ phản thân",
+      "IPA": "/hɜrˈself/",
+      "definition": "chính bản thân cô ấy, chính bản thân bà ấy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "high",
+      "type": "tính từ",
+      "IPA": "/haɪ/",
+      "definition": "cao, cao hơn, mức cao.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "him",
+      "type": "đại từ",
+      "IPA": "/hɪm/",
+      "definition": "anh ấy, ông ấy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "himself",
+      "type": "đại từ phản thân",
+      "IPA": "/hɪmˈself/",
+      "definition": "chính bản thân anh ấy, chính bản thân ông ấy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "his",
+      "type": "danh từ",
+      "IPA": "/hɪz/",
+      "definition": "của anh ấy, của ông ấy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "history",
+      "type": "danh từ",
+      "IPA": "/ˈhɪstɚi/",
+      "definition": "lịch sử, quá khứ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hit",
+      "type": "động từ",
+      "IPA": "/hɪt/",
+      "definition": "đánh, đập, va chạm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hold",
+      "type": "động từ",
+      "IPA": "/hoʊld/",
+      "definition": "cầm, giữ, nắm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "home",
+      "type": "danh từ",
+      "IPA": "/hoʊm/",
+      "definition": "nhà, gia đình, quê hương.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hope",
+      "type": "động từ",
+      "IPA": "/hoʊp/",
+      "definition": "hy vọng, hi vọng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hospital",
+      "type": "danh từ",
+      "IPA": "/ˈhɑːspɪtl/",
+      "definition": "bệnh viện, viện dưỡng lão.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hot",
+      "type": "tính từ",
+      "IPA": "/hɑt/",
+      "definition": "nóng, nóng bức.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hotel",
+      "type": "danh từ",
+      "IPA": "/hoʊˈtel /",
+      "definition": "khách sạn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hour",
+      "type": "danh từ",
+      "IPA": "/aʊɚ/",
+      "definition": "giờ, giờ đồng hồ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "house",
+      "type": "danh từ",
+      "IPA": "/haʊs/",
+      "definition": "ngôi nhà, căn nhà.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "how",
+      "type": "từ để hỏi",
+      "IPA": "/haʊ/",
+      "definition": "như thế nào, làm sao.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "however",
+      "type": "trạng từ",
+      "IPA": "/haʊˈevɚ/",
+      "definition": "tuy nhiên, dù sao.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "huge",
+      "type": "tính từ",
+      "IPA": "/hjuːdʒ/",
+      "definition": "to lớn, khổng lồ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "human",
+      "type": "danh từ",
+      "IPA": "/ˈhjuːmən/",
+      "definition": "con người, loài người.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "hundred",
+      "type": "danh từ",
+      "IPA": "/ˈhʌndrəd/",
+      "definition": "một trăm, hàng trăm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "husband",
+      "type": "danh từ",
+      "IPA": "/ˈhʌzbənd/",
+      "definition": "chồng, ông xã.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "I",
+      "type": "danh từ",
+      "IPA": "/aɪ/",
+      "definition": "tôi, tớ, ta.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "idea",
+      "type": "danh từ",
+      "IPA": "/aɪˈdiə/",
+      "definition": "ý tưởng, ý kiến.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "identify",
+      "type": "động từ",
+      "IPA": "/aɪˈdentəˌfaɪ/",
+      "definition": "xác định, nhận biết.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "if",
+      "type": "từ nối",
+      "IPA": "/ɪf",
+      "definition": "nếu, nếu như.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "image",
+      "type": "danh từ",
+      "IPA": "/ˈɪmɪdʒ",
+      "definition": "hình ảnh, hình tượng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "imagine",
+      "type": "động từ",
+      "IPA": "/ɪˈmædʒɪn/",
+      "definition": "tưởng tượng, tưởng tượng ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "impact",
+      "type": "động từ",
+      "IPA": "/ˈɪmpækt/",
+      "definition": "tác động, ảnh hưởng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "important",
+      "type": "tính từ",
+      "IPA": "/ɪmˈpɔrtnt/",
+      "definition": "quan trọng, trọng đại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "improve",
+      "type": "động từ",
+      "IPA": "/ɪmˈpruv/",
+      "definition": "cải thiện, cải tiến.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "in",
+      "type": "giới từ",
+      "IPA": "/ɪn/",
+      "definition": "trong, ở trong.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "include",
+      "type": "động từ",
+      "IPA": "/ɪnˈklud/",
+      "definition": "bao gồm, kể cả.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "including",
+      "type": "động từ",
+      "IPA": "/ɪnˈkludɪŋ/",
+      "definition": "bao gồm, kể cả.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "increase",
+      "type": "động từ",
+      "IPA": "/ɪnˈkris/",
+      "definition": "tăng, tăng lên.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "indeed",
+      "type": "trạng từ",
+      "IPA": "/ɪnˈdid/",
+      "definition": "thực sự, quả thật.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "indicate",
+      "type": "động từ",
+      "IPA": "/ˈɪndɪˌkeɪt/",
+      "definition": "chỉ ra, cho thấy.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "individual",
+      "type": "danh từ",
+      "IPA": "/ˌɪndɪˈvɪdʒuəl/",
+      "definition": "cá nhân, riêng lẻ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "industry",
+      "type": "danh từ",
+      "IPA": "/ˈɪndəstri/",
+      "definition": "ngành công nghiệp, ngành nghề.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "information",
+      "type": "danh từ",
+      "IPA": "/ˌɪnfɚmeɪʃən/",
+      "definition": "thông tin, tin tức.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "inside",
+      "type": "giới từ",
+      "IPA": "/ɪnˈsaɪd/",
+      "definition": "bên trong, trong.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "instead",
+      "type": "trạng từ",
+      "IPA": "/ɪnˈsted/",
+      "definition": "thay vì, thay vào đó.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "institution",
+      "type": "danh từ",
+      "IPA": "/ˌɪnstɪˈtuːʃən/",
+      "definition": "tổ chức, cơ quan.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "interest",
+      "type": "danh từ",
+      "IPA": "/ˈɪntrəst/",
+      "definition": "sự quan tâm, lợi ích.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "interesting",
+      "type": "tính từ",
+      "IPA": "/ˈɪntrəstɪŋ/",
+      "definition": "thú vị, hấp dẫn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "international",
+      "type": "tính từ",
+      "IPA": "/ˌɪntɚnæʃənəl/",
+      "definition": "quốc tế, toàn cầu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "interview",
+      "type": "danh từ",
+      "IPA": "/ˈɪntɚvjuː/",
+      "definition": "cuộc phỏng vấn, cuộc trò chuyện.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "into",
+      "type": "giới từ",
+      "IPA": "/ˈɪntuː/",
+      "definition": "vào trong, vào trong.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "investment",
+      "type": "danh từ",
+      "IPA": "/ɪnˈvestmənt/",
+      "definition": "đầu tư, khoản đầu tư.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "involve",
+      "type": "động từ",
+      "IPA": "/ɪnˈvɑlv/",
+      "definition": "liên quan, tham gia.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "issue",
+      "type": "danh từ",
+      "IPA": "/ˈɪʃuː/",
+      "definition": "vấn đề, vấn đề.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "it",
+      "type": "danh từ",
+      "IPA": "/ɪt/",
+      "definition": "nó, nó (đại từ nhân xưng).",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "item",
+      "type": "danh từ",
+      "IPA": "/ˈaɪtəm/",
+      "definition": "mục, hàng hóa.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "its",
+      "type": "đại từ",
+      "IPA": "/ɪts/",
+      "definition": "của nó, của nó (đại từ sở hữu).",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "itself",
+      "type": "đại từ phản thân",
+      "IPA": "/ɪtˈself /",
+      "definition": "chính nó, nó tự.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "job",
+      "type": "danh từ",
+      "IPA": "/dʒɑb/",
+      "definition": "công việc, nghề nghiệp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "join",
+      "type": "động từ",
+      "IPA": "/dʒɔɪn/",
+      "definition": "tham gia, gia nhập.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "just",
+      "type": "trạng từ",
+      "IPA": "/dʒʌst/",
+      "definition": "chỉ, mới chỉ, đúng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "keep",
+      "type": "động từ",
+      "IPA": "/kiːp/",
+      "definition": "giữ, duy trì.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "key",
+      "type": "danh từ",
+      "IPA": "/kiː/",
+      "definition": "chìa khóa, yếu tố quan trọng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "kid",
+      "type": "danh từ",
+      "IPA": "/kɪd/",
+      "definition": "đứa trẻ, con nít.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "kill",
+      "type": "động từ",
+      "IPA": "/kɪl/",
+      "definition": "giết, sát hại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "kind",
+      "type": "tính từ",
+      "IPA": "/kaɪnd/",
+      "definition": "loại, thể loại; tử tế, tốt bụng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "kitchen",
+      "type": "danh từ",
+      "IPA": "/ˈkɪtʃən/",
+      "definition": "nhà bếp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "know",
+      "type": "động từ",
+      "IPA": "/noʊ/",
+      "definition": "biết, hiểu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "knowledge",
+      "type": "danh từ",
+      "IPA": "/ˈnɑːlɪdʒ/",
+      "definition": "kiến thức, tri thức.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "land",
+      "type": "danh từ",
+      "IPA": "/lænd/",
+      "definition": "đất, đất đai.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "language",
+      "type": "danh từ",
+      "IPA": "/ˈlæŋɡwɪdʒ/",
+      "definition": "ngôn ngữ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "large",
+      "type": "tính từ",
+      "IPA": "/lɑːrdʒ/",
+      "definition": "lớn, rộng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "last",
+      "type": "tính từ",
+      "IPA": "/læst/",
+      "definition": "cuối cùng, trước khi hết.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "late",
+      "type": "tính từ",
+      "IPA": "/leɪt/",
+      "definition": "muộn, trễ; đã mất, đã qua đời.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "later",
+      "type": "trạng từ",
+      "IPA": "/ˈleɪtɚ/",
+      "definition": "sau này, sau đó.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "laugh",
+      "type": "động từ",
+      "IPA": "/læf/",
+      "definition": "cười",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "law",
+      "type": "danh từ",
+      "IPA": "/lɔː/",
+      "definition": "luật, pháp luật.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "lawyer",
+      "type": "danh từ",
+      "IPA": "/ˈlɔɪ.jɚ/",
+      "definition": "người luật sư.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "lay",
+      "type": "động từ",
+      "IPA": "/leɪ/",
+      "definition": "đặt, để, bố trí.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "lead",
+      "type": "động từ",
+      "IPA": "/liːd/",
+      "definition": "dẫn dắt, dẫn đường.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "leader",
+      "type": "danh từ",
+      "IPA": "/ˈliːdɚ/",
+      "definition": "người lãnh đạo, người dẫn đầu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "learn",
+      "type": "động từ",
+      "IPA": "/lɜːrn/",
+      "definition": "học, tìm hiểu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "least",
+      "type": "trạng từ",
+      "IPA": "/liːst/",
+      "definition": "ít nhất, nhỏ nhất.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "leave",
+      "type": "động từ",
+      "IPA": "/liːv/",
+      "definition": "rời đi, ra đi.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "left",
+      "type": "động từ",
+      "IPA": "/left/",
+      "definition": "trái, còn lại.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "leg",
+      "type": "danh từ",
+      "IPA": "/leɡ/",
+      "definition": "chân.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "legal",
+      "type": "tính từ",
+      "IPA": "/ˈliːɡəl/",
+      "definition": "hợp pháp, pháp lý.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "less",
+      "type": "tính từ",
+      "IPA": "/les/",
+      "definition": "ít hơn, không nhiều.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "let",
+      "type": "động từ",
+      "IPA": "/let/",
+      "definition": "để, cho phép.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "letter",
+      "type": "danh từ",
+      "IPA": "/ˈletɚ/",
+      "definition": "lá thư, chữ cái.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "level",
+      "type": "danh từ",
+      "IPA": "/ˈlevəl/",
+      "definition": "mức độ, trình độ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "lie",
+      "type": "động từ",
+      "IPA": "/laɪ/",
+      "definition": "nói dối, nằm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "life",
+      "type": "danh từ",
+      "IPA": "/laɪf/",
+      "definition": "cuộc sống, sự sống.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "light",
+      "type": "danh từ",
+      "IPA": "/laɪt/",
+      "definition": "ánh sáng, nhẹ nhàng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "like",
+      "type": "động từ",
+      "IPA": "/laɪk/",
+      "definition": "giống, như.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "likely",
+      "type": "trạng từ",
+      "IPA": "/ˈlaɪkli/",
+      "definition": "có khả năng, có thể.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "line",
+      "type": "danh từ",
+      "IPA": "/laɪn/",
+      "definition": "dòng, hàng, đường.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "list",
+      "type": "danh từ",
+      "IPA": "/lɪst/",
+      "definition": "danh sách, liệt kê.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "listen",
+      "type": "động từ",
+      "IPA": "/ˈlɪsən/",
+      "definition": "nghe, lắng nghe.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "little",
+      "type": "lượng từ",
+      "IPA": "/ˈlɪtəl/",
+      "definition": "nhỏ, ít.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "live",
+      "type": "động từ",
+      "IPA": "/lɪv /",
+      "definition": "sống, sinh sống.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "local",
+      "type": "tính từ",
+      "IPA": "/ˈloʊkəl/",
+      "definition": "địa phương.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "long",
+      "type": "tính từ",
+      "IPA": "/lɔːŋ/",
+      "definition": "dài, lâu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "look",
+      "type": "động từ",
+      "IPA": "/lʊk/",
+      "definition": "nhìn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "lose",
+      "type": "động từ",
+      "IPA": "/luːz/",
+      "definition": "mất.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "loss",
+      "type": "danh từ",
+      "IPA": "/lɔːs/",
+      "definition": "sự mất mát, tổn thất.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "lot",
+      "type": "lượng từ",
+      "IPA": "/lɑːt/",
+      "definition": "nhiều, rất nhiều.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "love",
+      "type": "động từ",
+      "IPA": "/lʌv/",
+      "definition": "yêu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "low",
+      "type": "tính từ",
+      "IPA": "/loʊ/",
+      "definition": "thấp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "machine",
+      "type": "danh từ",
+      "IPA": "/məˈʃiːn/",
+      "definition": "máy móc, thiết bị.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "magazine",
+      "type": "danh từ",
+      "IPA": "/ˌmæɡəˈziːn/",
+      "definition": "tạp chí, ấn phẩm.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "main",
+      "type": "tính từ",
+      "IPA": "/meɪn/",
+      "definition": "chính, chủ yếu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "maintain",
+      "type": "động từ",
+      "IPA": "/meɪnˈteɪn /",
+      "definition": "duy trì, bảo quản.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "major",
+      "type": "tính từ",
+      "IPA": "/ˈmeɪdʒɚ/",
+      "definition": "chính, quan trọng; chuyên ngành.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "majority",
+      "type": "danh từ",
+      "IPA": "/məˈdʒɔːrəti/",
+      "definition": "đa số, phần lớn.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "make",
+      "type": "động từ",
+      "IPA": "/meɪk/",
+      "definition": "làm, tạo ra.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "man",
+      "type": "danh từ",
+      "IPA": "/mæn/",
+      "definition": "người đàn ông, người.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "manage",
+      "type": "động từ",
+      "IPA": "/ˈmænɪdʒ/",
+      "definition": "quản lý, điều hành.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "management",
+      "type": "danh từ",
+      "IPA": "/ˈmænɪdʒmənt/",
+      "definition": "quản lý, sự quản lý.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "manager",
+      "type": "danh từ",
+      "IPA": "/ˈmænɪdʒɚ/",
+      "definition": "người quản lý, giám đốc.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "many",
+      "type": "lượng từ",
+      "IPA": "/ˈmeni/",
+      "definition": "nhiều, nhiều.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "market",
+      "type": "danh từ",
+      "IPA": "/ˈmɑːrkɪt/",
+      "definition": "thị trường, chợ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "marriage",
+      "type": "danh từ",
+      "IPA": "/ˈmæriɪdʒ/",
+      "definition": "hôn nhân, cuộc sống hôn nhân.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "material",
+      "type": "danh từ",
+      "IPA": "/məˈtɪriəl/",
+      "definition": "vật liệu, nguyên liệu; chất liệu, tài liệu.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "matter",
+      "type": "danh từ",
+      "IPA": "/ˈmætɚ/",
+      "definition": "vấn đề, điều quan trọng.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "may",
+      "type": "động từ khuyết thiếu",
+      "IPA": "/meɪ/",
+      "definition": "có thể, có lẽ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "maybe",
+      "type": "trạng từ",
+      "IPA": "/ˈmeɪbiː/",
+      "definition": "có thể, có lẽ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "me",
+      "type": "đại từ",
+      "IPA": "/miː/",
+      "definition": "tôi, tớ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "mean",
+      "type": "tính từ",
+      "IPA": "/miːn/",
+      "definition": "có nghĩa là, ý chỉ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "measure",
+      "type": "danh từ",
+      "IPA": "/ˈmeʒɚ/",
+      "definition": "đo lường, biện pháp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "media",
+      "type": "danh từ",
+      "IPA": "/ˈmidiə/",
+      "definition": "truyền thông, phương tiện truyền thông.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "medical",
+      "type": "tính từ",
+      "IPA": "/ˈmedɪkl/",
+      "definition": "y tế, thuộc về y học.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "meet",
+      "type": "động từ",
+      "IPA": "/miːt/",
+      "definition": "gặp gỡ, họp.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "meeting",
+      "type": "danh từ",
+      "IPA": "/ˈmiːtɪŋ/",
+      "definition": "cuộc họp, buổi gặp gỡ.",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "member",
+      "type": "danh từ",
+      "IPA": "/ˈmembər/",
+      "definition": "thành viên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "memory",
+      "type": "danh từ",
+      "IPA": "/ˈmeməri/",
+      "definition": "trí nhớ, kỷ niệm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "mention",
+      "type": "động từ",
+      "IPA": "/ˈmenʃn/",
+      "definition": "đề cập",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "message",
+      "type": "danh từ",
+      "IPA": "/ˈmesɪdʒ/",
+      "definition": "tin nhắn, thông điệp",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "method",
+      "type": "danh từ",
+      "IPA": "/ˈmeθəd/",
+      "definition": "phương pháp",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "middle",
+      "type": "tính từ",
+      "IPA": "/ˈmɪdl/",
+      "definition": "ở giữa, trung tâm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "might",
+      "type": "động từ khuyết thiếu",
+      "IPA": "/maɪt/",
+      "definition": "có thể (quá khứ của may)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "military",
+      "type": "tính từ/ danh từ",
+      "IPA": "/ˈmɪləteri/",
+      "definition": "quân sự, quân đội",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "milk",
+      "type": "danh từ",
+      "IPA": "/mɪlk/",
+      "definition": "sữa",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "million",
+      "type": "số từ",
+      "IPA": "/ˈmɪljən/",
+      "definition": "triệu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "mind",
+      "type": "danh từ/ động từ",
+      "IPA": "/maɪnd/",
+      "definition": "tâm trí, phiền/ngại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "minute",
+      "type": "danh từ",
+      "IPA": "/ˈmɪnɪt/",
+      "definition": "phút",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "name",
+      "type": "danh từ",
+      "IPA": "/neɪm/",
+      "definition": "tên, danh tánh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "nation",
+      "type": "danh từ",
+      "IPA": "/ˈneɪʃən/",
+      "definition": "quốc gia",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "nature",
+      "type": "danh từ",
+      "IPA": "/ˈneɪtʃɚ/",
+      "definition": "tự nhiên, thiên nhiên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "near",
+      "type": "tính từ/ giới từ",
+      "IPA": "/nɪr/",
+      "definition": "gần",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "necessary",
+      "type": "tính từ",
+      "IPA": "/ˈnesəseri/",
+      "definition": "cần thiết",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "need",
+      "type": "động từ/ danh từ",
+      "IPA": "/niːd/",
+      "definition": "cần, nhu cầu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "never",
+      "type": "trạng từ",
+      "IPA": "/ˈnevər/",
+      "definition": "không bao giờ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "new",
+      "type": "tính từ",
+      "IPA": "/nuː/",
+      "definition": "mới",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "news",
+      "type": "danh từ",
+      "IPA": "/nuːz/",
+      "definition": "tin tức",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "next",
+      "type": "tính từ/ trạng từ",
+      "IPA": "/nekst/",
+      "definition": "tiếp theo, kế tiếp",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "nice",
+      "type": "tính từ",
+      "IPA": "/naɪs/",
+      "definition": "tốt, đẹp, thú vị",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "night",
+      "type": "danh từ",
+      "IPA": "/naɪt/",
+      "definition": "ban đêm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "no",
+      "type": "thán từ",
+      "IPA": "/noʊ/",
+      "definition": "không",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "north",
+      "type": "danh từ",
+      "IPA": "/nɔːrθ/",
+      "definition": "phía bắc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "not",
+      "type": "trạng từ",
+      "IPA": "/nɑːt/",
+      "definition": "không (phủ định)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "note",
+      "type": "danh từ/ động từ",
+      "IPA": "/noʊt/",
+      "definition": "ghi chú, lưu ý",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "nothing",
+      "type": "đại từ",
+      "IPA": "/ˈnʌθɪŋ/",
+      "definition": "không có gì",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "now",
+      "type": "trạng từ",
+      "IPA": "/naʊ/",
+      "definition": "bây giờ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "number",
+      "type": "danh từ",
+      "IPA": "/ˈnʌmbər/",
+      "definition": "con số",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "object",
+      "type": "danh từ",
+      "IPA": "/ˈɑːbdʒekt/",
+      "definition": "vật thể, mục tiêu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "of",
+      "type": "giới từ",
+      "IPA": "/əv/",
+      "definition": "của",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "off",
+      "type": "trạng từ/ giới từ",
+      "IPA": "/ɔːf/",
+      "definition": "tắt, khỏi, cách xa",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "offer",
+      "type": "động từ",
+      "IPA": "/ˈɔːfər/",
+      "definition": "đề nghị, cung cấp",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "office",
+      "type": "danh từ",
+      "IPA": "/ˈɔːfɪs/",
+      "definition": "văn phòng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "often",
+      "type": "trạng từ",
+      "IPA": "/ˈɔːfn/",
+      "definition": "thường xuyên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "oil",
+      "type": "danh từ",
+      "IPA": "/ɔɪl/",
+      "definition": "dầu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "old",
+      "type": "tính từ",
+      "IPA": "/oʊld/",
+      "definition": "cũ, già",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "on",
+      "type": "giới từ",
+      "IPA": "/ɑːn/",
+      "definition": "trên, bật",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "once",
+      "type": "trạng từ",
+      "IPA": "/wʌns/",
+      "definition": "một lần, đã từng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "one",
+      "type": "số từ/ danh từ",
+      "IPA": "/wʌn/",
+      "definition": "số một, một người/vật",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "only",
+      "type": "trạng từ/ tính từ",
+      "IPA": "/ˈoʊnli/",
+      "definition": "chỉ, duy nhất",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "open",
+      "type": "động từ/ tính từ",
+      "IPA": "/ˈoʊpən/",
+      "definition": "mở, cởi mở",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "opportunity",
+      "type": "danh từ",
+      "IPA": "/ˌɑːpərˈtuːnəti/",
+      "definition": "cơ hội",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "option",
+      "type": "danh từ",
+      "IPA": "/ˈɑːpʃən/",
+      "definition": "sự lựa chọn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "or",
+      "type": "từ nối",
+      "IPA": "/ɔːr/",
+      "definition": "hoặc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "order",
+      "type": "danh từ/ động từ",
+      "IPA": "/ˈɔːrdər/",
+      "definition": "đơn hàng, thứ tự, ra lệnh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "other",
+      "type": "tính từ",
+      "IPA": "/ˈʌðər/",
+      "definition": "khác",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "our",
+      "type": "tính từ sở hữu",
+      "IPA": "/ɑːr/",
+      "definition": "của chúng tôi/chúng ta",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "out",
+      "type": "trạng từ",
+      "IPA": "/aʊt/",
+      "definition": "ngoài, ra ngoài",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "over",
+      "type": "giới từ",
+      "IPA": "/ˈoʊvər/",
+      "definition": "trên, qua, kết thúc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "own",
+      "type": "tính từ/ động từ",
+      "IPA": "/oʊn/",
+      "definition": "riêng, sở hữu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "page",
+      "type": "danh từ",
+      "IPA": "/peɪdʒ/",
+      "definition": "trang (sách)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "pain",
+      "type": "danh từ",
+      "IPA": "/peɪn/",
+      "definition": "nỗi đau",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "paper",
+      "type": "danh từ",
+      "IPA": "/ˈpeɪpər/",
+      "definition": "giấy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "parent",
+      "type": "danh từ",
+      "IPA": "/ˈperənt/",
+      "definition": "cha mẹ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "part",
+      "type": "danh từ",
+      "IPA": "/pɑːrt/",
+      "definition": "phần, bộ phận",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "participant",
+      "type": "danh từ",
+      "IPA": "/pɑːrˈtɪsəpənt/",
+      "definition": "người tham gia",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "party",
+      "type": "danh từ",
+      "IPA": "/ˈpɑːrti/",
+      "definition": "bữa tiệc, đảng phái",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "pass",
+      "type": "động từ",
+      "IPA": "/pæs/",
+      "definition": "vượt qua, chuyền",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "past",
+      "type": "danh từ/ giới từ",
+      "IPA": "/pæst/",
+      "definition": "quá khứ, đi qua",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "pay",
+      "type": "động từ",
+      "IPA": "/peɪ/",
+      "definition": "trả tiền, thanh toán",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "people",
+      "type": "danh từ",
+      "IPA": "/ˈpiːpl/",
+      "definition": "mọi người, con người",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "perform",
+      "type": "động từ",
+      "IPA": "/pərˈfɔːrm/",
+      "definition": "biểu diễn, thực hiện",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "perhaps",
+      "type": "trạng từ",
+      "IPA": "/pərˈhæps/",
+      "definition": "có lẽ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "person",
+      "type": "danh từ",
+      "IPA": "/ˈpɜːrsn/",
+      "definition": "một người",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "personal",
+      "type": "tính từ",
+      "IPA": "/ˈpɜːrsənl/",
+      "definition": "cá nhân, riêng tư",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "phone",
+      "type": "danh từ",
+      "IPA": "/foʊn/",
+      "definition": "điện thoại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "physical",
+      "type": "tính từ",
+      "IPA": "/ˈfɪzɪkl/",
+      "definition": "thuộc thể chất, vật lý",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "pick",
+      "type": "động từ",
+      "IPA": "/pɪk/",
+      "definition": "chọn, nhặt",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "picture",
+      "type": "danh từ",
+      "IPA": "/ˈpɪktʃər/",
+      "definition": "bức tranh, bức ảnh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "piece",
+      "type": "danh từ",
+      "IPA": "/piːs/",
+      "definition": "mẩu, miếng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "place",
+      "type": "danh từ/ động từ",
+      "IPA": "/pleɪs/",
+      "definition": "địa điểm, đặt/để",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "plan",
+      "type": "danh từ/ động từ",
+      "IPA": "/plæn/",
+      "definition": "kế hoạch, lên kế hoạch",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "play",
+      "type": "động từ",
+      "IPA": "/pleɪ/",
+      "definition": "chơi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "point",
+      "type": "danh từ/ động từ",
+      "IPA": "/pɔɪnt/",
+      "definition": "điểm, chỉ tay",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "police",
+      "type": "danh từ",
+      "IPA": "/pəˈliːs/",
+      "definition": "cảnh sát",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "poor",
+      "type": "tính từ",
+      "IPA": "/pʊr/",
+      "definition": "nghèo, tội nghiệp",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "popular",
+      "type": "tính từ",
+      "IPA": "/ˈpɑːpjələr/",
+      "definition": "phổ biến, nổi tiếng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "position",
+      "type": "danh từ",
+      "IPA": "/pəˈzɪʃən/",
+      "definition": "vị trí",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "possible",
+      "type": "tính từ",
+      "IPA": "/ˈpɑːsəbl/",
+      "definition": "có thể, khả thi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "power",
+      "type": "danh từ",
+      "IPA": "/ˈpaʊər/",
+      "definition": "sức mạnh, quyền lực",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "practice",
+      "type": "danh từ/ động từ",
+      "IPA": "/ˈpræktɪs/",
+      "definition": "thực hành, luyện tập",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "prepare",
+      "type": "động từ",
+      "IPA": "/prɪˈper/",
+      "definition": "chuẩn bị",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "present",
+      "type": "danh từ/ tính từ",
+      "IPA": "/ˈpreznt/",
+      "definition": "món quà, hiện tại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "president",
+      "type": "danh từ",
+      "IPA": "/ˈprezɪdənt/",
+      "definition": "chủ tịch, tổng thống",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "pressure",
+      "type": "danh từ",
+      "IPA": "/ˈpreʃər/",
+      "definition": "áp lực",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "pretty",
+      "type": "tính từ/ trạng từ",
+      "IPA": "/ˈprɪti/",
+      "definition": "xinh đẹp, khá là",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "price",
+      "type": "danh từ",
+      "IPA": "/praɪs/",
+      "definition": "giá cả",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "private",
+      "type": "tính từ",
+      "IPA": "/ˈpraɪvət/",
+      "definition": "riêng tư",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "probably",
+      "type": "trạng từ",
+      "IPA": "/ˈprɑːbəbli/",
+      "definition": "có lẽ, chắc là",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "problem",
+      "type": "danh từ",
+      "IPA": "/ˈprɑːbləm/",
+      "definition": "vấn đề",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "process",
+      "type": "danh từ",
+      "IPA": "/ˈprɑːses/",
+      "definition": "quá trình",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "produce",
+      "type": "động từ",
+      "IPA": "/prəˈduːs/",
+      "definition": "sản xuất",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "product",
+      "type": "danh từ",
+      "IPA": "/ˈprɑːdʌkt/",
+      "definition": "sản phẩm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "program",
+      "type": "danh từ",
+      "IPA": "/ˈproʊɡræm/",
+      "definition": "chương trình",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "project",
+      "type": "danh từ",
+      "IPA": "/ˈprɑːdʒekt/",
+      "definition": "dự án",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "protect",
+      "type": "động từ",
+      "IPA": "/prəˈtekt/",
+      "definition": "bảo vệ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "prove",
+      "type": "động từ",
+      "IPA": "/pruːv/",
+      "definition": "chứng minh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "provide",
+      "type": "động từ",
+      "IPA": "/prəˈvaɪd/",
+      "definition": "cung cấp",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "public",
+      "type": "tính từ/ danh từ",
+      "IPA": "/ˈpʌblɪk/",
+      "definition": "công cộng, công chúng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "pull",
+      "type": "động từ",
+      "IPA": "/pʊl/",
+      "definition": "kéo",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "purpose",
+      "type": "danh từ",
+      "IPA": "/ˈpɜːrpəs/",
+      "definition": "mục đích",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "push",
+      "type": "động từ",
+      "IPA": "/pʊʃ/",
+      "definition": "đẩy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "put",
+      "type": "động từ",
+      "IPA": "/pʊt/",
+      "definition": "đặt, để",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "quality",
+      "type": "danh từ",
+      "IPA": "/ˈkwɑːləti/",
+      "definition": "chất lượng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "question",
+      "type": "danh từ/ động từ",
+      "IPA": "/ˈkwestʃən/",
+      "definition": "câu hỏi, thắc mắc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "quick",
+      "type": "tính từ",
+      "IPA": "/kwɪk/",
+      "definition": "nhanh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "quickly",
+      "type": "trạng từ",
+      "IPA": "/ˈkwɪkli/",
+      "definition": "một cách nhanh chóng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "quite",
+      "type": "trạng từ",
+      "IPA": "/kwaɪt/",
+      "definition": "khá, hoàn toàn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "race",
+      "type": "danh từ",
+      "IPA": "/reɪs/",
+      "definition": "cuộc đua, chủng tộc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "radio",
+      "type": "danh từ",
+      "IPA": "/ˈreɪdioʊ/",
+      "definition": "đài phát thanh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "raise",
+      "type": "động từ",
+      "IPA": "/reɪz/",
+      "definition": "nâng lên, nuôi nấng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "range",
+      "type": "danh từ",
+      "IPA": "/reɪndʒ/",
+      "definition": "phạm vi, dãy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "rate",
+      "type": "danh từ",
+      "IPA": "/reɪt/",
+      "definition": "tỷ lệ, tốc độ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "rather",
+      "type": "trạng từ",
+      "IPA": "/ˈræðər/",
+      "definition": "thà, hơn là",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "reach",
+      "type": "động từ",
+      "IPA": "/riːtʃ/",
+      "definition": "với tới, đạt được",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "read",
+      "type": "động từ",
+      "IPA": "/riːd/",
+      "definition": "đọc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ready",
+      "type": "tính từ",
+      "IPA": "/ˈredi/",
+      "definition": "sẵn sàng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "real",
+      "type": "tính từ",
+      "IPA": "/riːəl/",
+      "definition": "thật, thực tế",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "reality",
+      "type": "danh từ",
+      "IPA": "/riˈæləti/",
+      "definition": "thực tế",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "realize",
+      "type": "động từ",
+      "IPA": "/ˈriːəlaɪz/",
+      "definition": "nhận ra",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "really",
+      "type": "trạng từ",
+      "IPA": "/ˈriːəli/",
+      "definition": "thực sự",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "reason",
+      "type": "danh từ",
+      "IPA": "/ˈriːzn/",
+      "definition": "lý do",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "receive",
+      "type": "động từ",
+      "IPA": "/rɪˈsiːv/",
+      "definition": "nhận",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "recent",
+      "type": "tính từ",
+      "IPA": "/ˈriːsnt/",
+      "definition": "gần đây",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "recently",
+      "type": "trạng từ",
+      "IPA": "/ˈriːsntli/",
+      "definition": "mới đây, gần đây",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "recognize",
+      "type": "động từ",
+      "IPA": "/ˈrekəɡnaɪz/",
+      "definition": "công nhận, nhận ra",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "record",
+      "type": "danh từ/ động từ",
+      "IPA": "/ˈrekərd/",
+      "definition": "hồ sơ, ghi âm/ghi hình",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "red",
+      "type": "tính từ",
+      "IPA": "/red/",
+      "definition": "màu đỏ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "reduce",
+      "type": "động từ",
+      "IPA": "/rɪˈduːs/",
+      "definition": "giảm bớt",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "reflect",
+      "type": "động từ",
+      "IPA": "/rɪˈflekt/",
+      "definition": "phản chiếu, phản ánh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "region",
+      "type": "danh từ",
+      "IPA": "/ˈriːdʒən/",
+      "definition": "vùng, miền",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "relate",
+      "type": "động từ",
+      "IPA": "/rɪˈleɪt/",
+      "definition": "liên quan, kể lại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "relationship",
+      "type": "danh từ",
+      "IPA": "/rɪˈleɪʃnʃɪp/",
+      "definition": "mối quan hệ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "remain",
+      "type": "động từ",
+      "IPA": "/rɪˈmeɪn/",
+      "definition": "còn lại, duy trì",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "remember",
+      "type": "động từ",
+      "IPA": "/rɪˈmembər/",
+      "definition": "nhớ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "remove",
+      "type": "động từ",
+      "IPA": "/rɪˈmuːv/",
+      "definition": "loại bỏ, dời đi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "report",
+      "type": "danh từ/ động từ",
+      "IPA": "/rɪˈpɔːrt/",
+      "definition": "báo cáo",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "represent",
+      "type": "động từ",
+      "IPA": "/ˌreprɪˈzent/",
+      "definition": "đại diện",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "require",
+      "type": "động từ",
+      "IPA": "/rɪˈkwaɪər/",
+      "definition": "yêu cầu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "research",
+      "type": "danh từ/ động từ",
+      "IPA": "/ˈriːsɜːrtʃ/",
+      "definition": "nghiên cứu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "resource",
+      "type": "danh từ",
+      "IPA": "/ˈriːsɔːrs/",
+      "definition": "tài nguyên, nguồn lực",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "respond",
+      "type": "động từ",
+      "IPA": "/rɪˈspɑːnd/",
+      "definition": "phản hồi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "response",
+      "type": "danh từ",
+      "IPA": "/rɪˈspɑːns/",
+      "definition": "câu trả lời, sự phản hồi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "responsibility",
+      "type": "danh từ",
+      "IPA": "/rɪˌspɑːnsəˈbɪləti/",
+      "definition": "trách nhiệm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "rest",
+      "type": "danh từ/ động từ",
+      "IPA": "/rest/",
+      "definition": "phần còn lại, nghỉ ngơi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "result",
+      "type": "danh từ",
+      "IPA": "/rɪˈzʌlt/",
+      "definition": "kết quả",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "return",
+      "type": "động từ",
+      "IPA": "/rɪˈtɜːrn/",
+      "definition": "trở lại, trả lại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "reveal",
+      "type": "động từ",
+      "IPA": "/rɪˈviːl/",
+      "definition": "tiết lộ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "rich",
+      "type": "tính từ",
+      "IPA": "/rɪtʃ/",
+      "definition": "giàu có",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "right",
+      "type": "tính từ/ danh từ",
+      "IPA": "/raɪt/",
+      "definition": "đúng, bên phải, quyền lợi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "rise",
+      "type": "động từ",
+      "IPA": "/raɪz/",
+      "definition": "tăng lên, mọc lên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "risk",
+      "type": "danh từ",
+      "IPA": "/rɪsk/",
+      "definition": "rủi ro",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "road",
+      "type": "danh từ",
+      "IPA": "/roʊd/",
+      "definition": "con đường",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "rock",
+      "type": "danh từ",
+      "IPA": "/rɑːk/",
+      "definition": "đá, nhạc rock",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "role",
+      "type": "danh từ",
+      "IPA": "/roʊl/",
+      "definition": "vai trò",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "room",
+      "type": "danh từ",
+      "IPA": "/ruːm/",
+      "definition": "căn phòng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "rule",
+      "type": "danh từ/ động từ",
+      "IPA": "/ruːl/",
+      "definition": "quy tắc, cai trị",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "run",
+      "type": "động từ",
+      "IPA": "/rʌn/",
+      "definition": "chạy, vận hành",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "safe",
+      "type": "tính từ",
+      "IPA": "/seɪf/",
+      "definition": "an toàn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "same",
+      "type": "tính từ",
+      "IPA": "/seɪm/",
+      "definition": "giống nhau",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "save",
+      "type": "động từ",
+      "IPA": "/seɪv/",
+      "definition": "cứu, tiết kiệm, lưu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "say",
+      "type": "động từ",
+      "IPA": "/seɪ/",
+      "definition": "nói",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "scene",
+      "type": "danh từ",
+      "IPA": "/siːn/",
+      "definition": "cảnh, hiện trường",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "school",
+      "type": "danh từ",
+      "IPA": "/skuːl/",
+      "definition": "trường học",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "science",
+      "type": "danh từ",
+      "IPA": "/ˈsaɪəns/",
+      "definition": "khoa học",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "score",
+      "type": "danh từ/ động từ",
+      "IPA": "/skɔːr/",
+      "definition": "điểm số, ghi điểm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sea",
+      "type": "danh từ",
+      "IPA": "/siː/",
+      "definition": "biển",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "season",
+      "type": "danh từ",
+      "IPA": "/ˈsiːzn/",
+      "definition": "mùa",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "seat",
+      "type": "danh từ",
+      "IPA": "/siːt/",
+      "definition": "chỗ ngồi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "second",
+      "type": "danh từ/ tính từ",
+      "IPA": "/ˈsekənd/",
+      "definition": "giây, thứ hai (vị trí)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "section",
+      "type": "danh từ",
+      "IPA": "/ˈsekʃən/",
+      "definition": "phần, mục",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "security",
+      "type": "danh từ",
+      "IPA": "/səˈkjʊrəti/",
+      "definition": "an ninh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "see",
+      "type": "động từ",
+      "IPA": "/siː/",
+      "definition": "nhìn thấy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "seek",
+      "type": "động từ",
+      "IPA": "/siːk/",
+      "definition": "tìm kiếm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "seem",
+      "type": "động từ",
+      "IPA": "/siːm/",
+      "definition": "dường như",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sell",
+      "type": "động từ",
+      "IPA": "/sel/",
+      "definition": "bán",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "send",
+      "type": "động từ",
+      "IPA": "/send/",
+      "definition": "gửi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sense",
+      "type": "danh từ",
+      "IPA": "/sens/",
+      "definition": "giác quan, ý thức",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "serious",
+      "type": "tính từ",
+      "IPA": "/ˈsɪriəs/",
+      "definition": "nghiêm trọng, nghiêm túc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "serve",
+      "type": "động từ",
+      "IPA": "/sɜːrv/",
+      "definition": "phục vụ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "service",
+      "type": "danh từ",
+      "IPA": "/ˈsɜːrvɪs/",
+      "definition": "dịch vụ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "set",
+      "type": "động từ/ danh từ",
+      "IPA": "/set/",
+      "definition": "thiết lập, bộ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "seven",
+      "type": "số từ",
+      "IPA": "/ˈsevn/",
+      "definition": "số 7",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "several",
+      "type": "lượng từ",
+      "IPA": "/ˈsevrəl/",
+      "definition": "một vài",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sex",
+      "type": "danh từ",
+      "IPA": "/seks/",
+      "definition": "giới tính",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "shake",
+      "type": "động từ",
+      "IPA": "/ʃeɪk/",
+      "definition": "rung, lắc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "share",
+      "type": "động từ/ danh từ",
+      "IPA": "/ʃer/",
+      "definition": "chia sẻ, cổ phần",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "she",
+      "type": "đại từ",
+      "IPA": "/ʃiː/",
+      "definition": "cô ấy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "short",
+      "type": "tính từ",
+      "IPA": "/ʃɔːrt/",
+      "definition": "ngắn, thấp",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "should",
+      "type": "động từ khuyết thiếu",
+      "IPA": "/ʃʊd/",
+      "definition": "nên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "shoulder",
+      "type": "danh từ",
+      "IPA": "/ˈʃoʊldər/",
+      "definition": "vai",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "show",
+      "type": "động từ/ danh từ",
+      "IPA": "/ʃoʊ/",
+      "definition": "chỉ ra, buổi biểu diễn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "side",
+      "type": "danh từ",
+      "IPA": "/saɪd/",
+      "definition": "bên, cạnh, phía",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sign",
+      "type": "danh từ/ động từ",
+      "IPA": "/saɪn/",
+      "definition": "dấu hiệu, ký tên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "significant",
+      "type": "tính từ",
+      "IPA": "/sɪɡˈnɪfɪkənt/",
+      "definition": "quan trọng, đáng kể",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "similar",
+      "type": "tính từ",
+      "IPA": "/ˈsɪmələr/",
+      "definition": "tương tự",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "simple",
+      "type": "tính từ",
+      "IPA": "/ˈsɪmpl/",
+      "definition": "đơn giản",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "since",
+      "type": "giới từ/ từ nối",
+      "IPA": "/sɪns/",
+      "definition": "từ khi, bởi vì",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sing",
+      "type": "động từ",
+      "IPA": "/sɪŋ/",
+      "definition": "hát",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "single",
+      "type": "tính từ",
+      "IPA": "/ˈsɪŋɡl/",
+      "definition": "đơn, độc thân",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sister",
+      "type": "danh từ",
+      "IPA": "/ˈsɪstər/",
+      "definition": "chị/em gái",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sit",
+      "type": "động từ",
+      "IPA": "/sɪt/",
+      "definition": "ngồi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "site",
+      "type": "danh từ",
+      "IPA": "/saɪt/",
+      "definition": "trang web, địa điểm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "situation",
+      "type": "danh từ",
+      "IPA": "/ˌsɪtʃuˈeɪʃən/",
+      "definition": "tình huống",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "six",
+      "type": "số từ",
+      "IPA": "/sɪks/",
+      "definition": "số 6",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "size",
+      "type": "danh từ",
+      "IPA": "/saɪz/",
+      "definition": "kích thước",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "skill",
+      "type": "danh từ",
+      "IPA": "/skɪl/",
+      "definition": "kỹ năng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "skin",
+      "type": "danh từ",
+      "IPA": "/skɪn/",
+      "definition": "da",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "small",
+      "type": "tính từ",
+      "IPA": "/smɔːl/",
+      "definition": "nhỏ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "smile",
+      "type": "động từ/ danh từ",
+      "IPA": "/smaɪl/",
+      "definition": "mỉm cười, nụ cười",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "so",
+      "type": "từ nối/ trạng từ",
+      "IPA": "/soʊ/",
+      "definition": "vì vậy, quá",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "social",
+      "type": "tính từ",
+      "IPA": "/ˈsoʊʃl/",
+      "definition": "thuộc xã hội",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "society",
+      "type": "danh từ",
+      "IPA": "/səˈsaɪəti/",
+      "definition": "xã hội",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "soldier",
+      "type": "danh từ",
+      "IPA": "/ˈsoʊldʒər/",
+      "definition": "người lính",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "some",
+      "type": "lượng từ",
+      "IPA": "/sʌm/",
+      "definition": "một vài, một số",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "somebody",
+      "type": "đại từ",
+      "IPA": "/ˈsʌmbədi/",
+      "definition": "ai đó",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "someone",
+      "type": "đại từ",
+      "IPA": "/ˈsʌmwʌn/",
+      "definition": "ai đó",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "something",
+      "type": "đại từ",
+      "IPA": "/ˈsʌmθɪŋ/",
+      "definition": "cái gì đó",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sometimes",
+      "type": "trạng từ",
+      "IPA": "/ˈsʌmtaɪmz/",
+      "definition": "thỉnh thoảng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "son",
+      "type": "danh từ",
+      "IPA": "/sʌn/",
+      "definition": "con trai",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "song",
+      "type": "danh từ",
+      "IPA": "/sɔːŋ/",
+      "definition": "bài hát",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "soon",
+      "type": "trạng từ",
+      "IPA": "/suːn/",
+      "definition": "sớm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sort",
+      "type": "danh từ/ động từ",
+      "IPA": "/sɔːrt/",
+      "definition": "loại, phân loại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sound",
+      "type": "danh từ/ động từ",
+      "IPA": "/saʊnd/",
+      "definition": "âm thanh, nghe có vẻ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "source",
+      "type": "danh từ",
+      "IPA": "/sɔːrs/",
+      "definition": "nguồn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "south",
+      "type": "danh từ",
+      "IPA": "/saʊθ/",
+      "definition": "phía nam",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "space",
+      "type": "danh từ",
+      "IPA": "/speɪs/",
+      "definition": "không gian",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "speak",
+      "type": "động từ",
+      "IPA": "/spiːk/",
+      "definition": "nói",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "special",
+      "type": "tính từ",
+      "IPA": "/ˈspeʃl/",
+      "definition": "đặc biệt",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "specific",
+      "type": "tính từ",
+      "IPA": "/spəˈsɪfɪk/",
+      "definition": "cụ thể",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "speech",
+      "type": "danh từ",
+      "IPA": "/spiːtʃ/",
+      "definition": "bài phát biểu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "spend",
+      "type": "động từ",
+      "IPA": "/spend/",
+      "definition": "dành (tiền/thời gian)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sport",
+      "type": "danh từ",
+      "IPA": "/spɔːrt/",
+      "definition": "thể thao",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "spring",
+      "type": "danh từ",
+      "IPA": "/sprɪŋ/",
+      "definition": "mùa xuân",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "staff",
+      "type": "danh từ",
+      "IPA": "/stæf/",
+      "definition": "nhân viên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "stage",
+      "type": "danh từ",
+      "IPA": "/steɪdʒ/",
+      "definition": "sân khấu, giai đoạn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "stand",
+      "type": "động từ",
+      "IPA": "/stænd/",
+      "definition": "đứng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "standard",
+      "type": "danh từ/ tính từ",
+      "IPA": "/ˈstændərd/",
+      "definition": "tiêu chuẩn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "star",
+      "type": "danh từ",
+      "IPA": "/stɑːr/",
+      "definition": "ngôi sao",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "start",
+      "type": "động từ",
+      "IPA": "/stɑːr/",
+      "definition": "bắt đầu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "state",
+      "type": "danh từ/ động từ",
+      "IPA": "/steɪt/",
+      "definition": "tiểu bang, trạng thái, phát biểu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "statement",
+      "type": "danh từ",
+      "IPA": "/ˈsteɪtmənt/",
+      "definition": "lời tuyên bố",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "station",
+      "type": "danh từ",
+      "IPA": "/ˈsteɪʃən/",
+      "definition": "nhà ga, trạm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "stay",
+      "type": "động từ",
+      "IPA": "/steɪ/",
+      "definition": "ở lại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "step",
+      "type": "danh từ/ động từ",
+      "IPA": "/step/",
+      "definition": "bước đi, bước",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "still",
+      "type": "trạng từ",
+      "IPA": "/stɪl/",
+      "definition": "vẫn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "stock",
+      "type": "danh từ",
+      "IPA": "/stɑːk/",
+      "definition": "cổ phiếu, kho hàng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "stop",
+      "type": "động từ",
+      "IPA": "/stɑːp/",
+      "definition": "dừng lại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "store",
+      "type": "danh từ/ động từ",
+      "IPA": "/stɔːr/",
+      "definition": "cửa hàng, lưu trữ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "story",
+      "type": "danh từ",
+      "IPA": "/ˈstɔːri/",
+      "definition": "câu chuyện, tầng (nhà)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "strategy",
+      "type": "danh từ",
+      "IPA": "/ˈstrætədʒi/",
+      "definition": "chiến lược",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "street",
+      "type": "danh từ",
+      "IPA": "/striːt/",
+      "definition": "đường phố",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "strong",
+      "type": "tính từ",
+      "IPA": "/strɔːŋ/",
+      "definition": "mạnh mẽ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "structure",
+      "type": "danh từ",
+      "IPA": "/ˈstrʌktʃər/",
+      "definition": "cấu trúc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "student",
+      "type": "danh từ",
+      "IPA": "/ˈstuːdnt/",
+      "definition": "học sinh, sinh viên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "study",
+      "type": "động từ/ danh từ",
+      "IPA": "/ˈstʌdi/",
+      "definition": "học, nghiên cứu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "stuff",
+      "type": "danh từ",
+      "IPA": "/stʌf/",
+      "definition": "đồ đạc (nói chung)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "style",
+      "type": "danh từ",
+      "IPA": "/staɪl/",
+      "definition": "phong cách",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "subject",
+      "type": "danh từ",
+      "IPA": "/ˈsʌbdʒɪkt/",
+      "definition": "môn học, chủ đề",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "success",
+      "type": "danh từ",
+      "IPA": "/səkˈses/",
+      "definition": "sự thành công",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "successful",
+      "type": "tính từ",
+      "IPA": "/səkˈsesfl/",
+      "definition": "thành công",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "such",
+      "type": "tính từ",
+      "IPA": "/sʌtʃ/",
+      "definition": "như vậy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "suddenly",
+      "type": "trạng từ",
+      "IPA": "/ˈsʌdnli/",
+      "definition": "đột ngột",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "suffer",
+      "type": "động từ",
+      "IPA": "/ˈsʌfər/",
+      "definition": "chịu đựng, đau khổ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "suggest",
+      "type": "động từ",
+      "IPA": "/səˈdʒest/",
+      "definition": "gợi ý",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "summer",
+      "type": "danh từ",
+      "IPA": "/ˈsʌmər/",
+      "definition": "mùa hè",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "support",
+      "type": "động từ/ danh từ",
+      "IPA": "/səˈpɔːrt/",
+      "definition": "ủng hộ, hỗ trợ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "sure",
+      "type": "tính từ",
+      "IPA": "/ʃʊr/",
+      "definition": "chắc chắn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "surface",
+      "type": "danh từ",
+      "IPA": "/ˈsɜːrfɪs/",
+      "definition": "bề mặt",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "system",
+      "type": "danh từ",
+      "IPA": "/ˈsɪstəm/",
+      "definition": "hệ thống",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "table",
+      "type": "danh từ",
+      "IPA": "/ˈteɪbl/",
+      "definition": "cái bàn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "take",
+      "type": "động từ",
+      "IPA": "/teɪk/",
+      "definition": "cầm, nắm, lấy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "talk",
+      "type": "động từ",
+      "IPA": "/tɔːk/",
+      "definition": "nói chuyện",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "task",
+      "type": "danh từ",
+      "IPA": "/tæsk/",
+      "definition": "nhiệm vụ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "tax",
+      "type": "danh từ",
+      "IPA": "/tæks/",
+      "definition": "thuế",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "teach",
+      "type": "động từ",
+      "IPA": "/tiːtʃ/",
+      "definition": "dạy học",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "teacher",
+      "type": "danh từ",
+      "IPA": "/ˈtiːtʃər/",
+      "definition": "giáo viên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "team",
+      "type": "danh từ",
+      "IPA": "/tiːm/",
+      "definition": "đội, nhóm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "technology",
+      "type": "danh từ",
+      "IPA": "/tekˈnɑːlədʒi/",
+      "definition": "công nghệ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "television",
+      "type": "danh từ",
+      "IPA": "/ˈteləvɪʒən/",
+      "definition": "ti vi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "tell",
+      "type": "động từ",
+      "IPA": "/tel/",
+      "definition": "kể, bảo",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "ten",
+      "type": "số từ",
+      "IPA": "/ten/",
+      "definition": "số 10",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "tend",
+      "type": "động từ",
+      "IPA": "/tend/",
+      "definition": "có khuynh hướng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "term",
+      "type": "danh từ",
+      "IPA": "/tɜːrm/",
+      "definition": "thuật ngữ, kỳ hạn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "test",
+      "type": "danh từ/ động từ",
+      "IPA": "/test/",
+      "definition": "bài kiểm tra, thử nghiệm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "than",
+      "type": "từ nối",
+      "IPA": "/ðæn/",
+      "definition": "hơn (so sánh)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "thank",
+      "type": "động từ",
+      "IPA": "/θæŋk/",
+      "definition": "cảm ơn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "that",
+      "type": "đại từ/ từ nối",
+      "IPA": "/ðæt/",
+      "definition": "cái kia, điều đó, rằng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "the",
+      "type": "mạo từ",
+      "IPA": "/ðə/",
+      "definition": "(mạo từ xác định)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "their",
+      "type": "tính từ sở hữu",
+      "IPA": "/ðer/",
+      "definition": "của họ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "them",
+      "type": "đại từ",
+      "IPA": "/ðem/",
+      "definition": "họ (tân ngữ)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "themselves",
+      "type": "đại từ phản thân",
+      "IPA": "/ðəmˈselvz/",
+      "definition": "chính họ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "then",
+      "type": "trạng từ",
+      "IPA": "/ðen/",
+      "definition": "sau đó, khi đó",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "theory",
+      "type": "danh từ",
+      "IPA": "/ˈθɪri/",
+      "definition": "lý thuyết",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "there",
+      "type": "trạng từ",
+      "IPA": "/ðer/",
+      "definition": "ở đó, có (there is)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "these",
+      "type": "đại từ",
+      "IPA": "/ðiːz/",
+      "definition": "những cái này",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "they",
+      "type": "đại từ",
+      "IPA": "/ðeɪ/",
+      "definition": "họ, chúng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "thing",
+      "type": "danh từ",
+      "IPA": "/θɪŋ/",
+      "definition": "sự vật, điều",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "think",
+      "type": "động từ",
+      "IPA": "/θɪŋk/",
+      "definition": "nghĩ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "third",
+      "type": "số thứ tự",
+      "IPA": "/θɜːrd/",
+      "definition": "thứ ba",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "this",
+      "type": "đại từ",
+      "IPA": "/ðɪs/",
+      "definition": "cái này",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "those",
+      "type": "đại từ",
+      "IPA": "/ðoʊz/",
+      "definition": "những cái kia",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "though",
+      "type": "từ nối",
+      "IPA": "/ðoʊ/",
+      "definition": "mặc dù",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "thought",
+      "type": "danh từ",
+      "IPA": "/θɔːt/",
+      "definition": "suy nghĩ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "thousand",
+      "type": "số từ",
+      "IPA": "/ˈθaʊznd/",
+      "definition": "nghìn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "threat",
+      "type": "danh từ",
+      "IPA": "/θret/",
+      "definition": "mối đe dọa",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "three",
+      "type": "số từ",
+      "IPA": "/θriː/",
+      "definition": "số 3",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "through",
+      "type": "giới từ",
+      "IPA": "/θruː/",
+      "definition": "xuyên qua, thông qua",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "throughout",
+      "type": "giới từ",
+      "IPA": "/θruːˈaʊt/",
+      "definition": "xuyên suốt",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "throw",
+      "type": "động từ",
+      "IPA": "/θroʊ/",
+      "definition": "ném",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "thus",
+      "type": "trạng từ",
+      "IPA": "/ðʌs/",
+      "definition": "như vậy, do đó",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "time",
+      "type": "danh từ",
+      "IPA": "/taɪm/",
+      "definition": "thời gian",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "to",
+      "type": "giới từ",
+      "IPA": "/tuː/",
+      "definition": "đến, để",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "today",
+      "type": "trạng từ/ danh từ",
+      "IPA": "/təˈdeɪ/",
+      "definition": "hôm nay",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "together",
+      "type": "trạng từ",
+      "IPA": "/təˈɡeðər/",
+      "definition": "cùng nhau",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "tonight",
+      "type": "trạng từ/ danh từ",
+      "IPA": "/təˈnaɪt/",
+      "definition": "tối nay",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "too",
+      "type": "trạng từ",
+      "IPA": "/tuː/",
+      "definition": "cũng, quá",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "top",
+      "type": "danh từ/ tính từ",
+      "IPA": "/tɑːp/",
+      "definition": "đỉnh, hàng đầu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "total",
+      "type": "tính từ/ danh từ",
+      "IPA": "/ˈtoʊtl/",
+      "definition": "tổng cộng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "tough",
+      "type": "tính từ",
+      "IPA": "/tʌf/",
+      "definition": "khó khăn, cứng rắn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "toward",
+      "type": "giới từ",
+      "IPA": "/tɔːrd/",
+      "definition": "hướng về",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "town",
+      "type": "danh từ",
+      "IPA": "/taʊn/",
+      "definition": "thị trấn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "trade",
+      "type": "danh từ/ động từ",
+      "IPA": "/treɪd/",
+      "definition": "thương mại, buôn bán",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "traditional",
+      "type": "tính từ",
+      "IPA": "/trəˈdɪʃənl/",
+      "definition": "truyền thống",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "training",
+      "type": "danh từ",
+      "IPA": "/ˈtreɪnɪŋ/",
+      "definition": "đào tạo",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "travel",
+      "type": "động từ/ danh từ",
+      "IPA": "/ˈtrævl/",
+      "definition": "du lịch, đi lại",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "treat",
+      "type": "động từ",
+      "IPA": "/triːt/",
+      "definition": "đối xử, điều trị",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "treatment",
+      "type": "danh từ",
+      "IPA": "/ˈtriːtmənt/",
+      "definition": "sự điều trị, sự đối xử",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "tree",
+      "type": "danh từ",
+      "IPA": "/triː/",
+      "definition": "cái cây",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "trial",
+      "type": "danh từ",
+      "IPA": "/ˈtraɪəl/",
+      "definition": "phiên tòa, thử nghiệm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "trip",
+      "type": "danh từ",
+      "IPA": "/trɪp/",
+      "definition": "chuyến đi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "trouble",
+      "type": "danh từ",
+      "IPA": "/ˈtrʌbl/",
+      "definition": "rắc rối",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "true",
+      "type": "tính từ",
+      "IPA": "/truː/",
+      "definition": "đúng, thật",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "truth",
+      "type": "danh từ",
+      "IPA": "/truːθ/",
+      "definition": "sự thật",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "try",
+      "type": "động từ",
+      "IPA": "/traɪ/",
+      "definition": "cố gắng, thử",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "turn",
+      "type": "động từ/ danh từ",
+      "IPA": "/tɜːrn/",
+      "definition": "xoay, rẽ, lượt",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "TV",
+      "type": "danh từ",
+      "IPA": "/ˌtiː ˈviː/",
+      "definition": "tivi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "two",
+      "type": "số từ",
+      "IPA": "/tuː/",
+      "definition": "số 2",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "type",
+      "type": "danh từ/ động từ",
+      "IPA": "/taɪp/",
+      "definition": "loại, đánh máy",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "under",
+      "type": "giới từ",
+      "IPA": "/ˈʌndər/",
+      "definition": "ở dưới",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "understand",
+      "type": "động từ",
+      "IPA": "/ˌʌndərˈstænd/",
+      "definition": "hiểu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "unit",
+      "type": "danh từ",
+      "IPA": "/ˈjuːnɪt/",
+      "definition": "đơn vị",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "until",
+      "type": "giới từ/ từ nối",
+      "IPA": "/ənˈtɪl/",
+      "definition": "cho đến khi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "up",
+      "type": "giới từ/ trạng từ",
+      "IPA": "/ʌp/",
+      "definition": "lên, ở trên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "upon",
+      "type": "giới từ",
+      "IPA": "/əˈpɑːn/",
+      "definition": "trên (trang trọng hơn on)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "us",
+      "type": "đại từ",
+      "IPA": "/ʌs/",
+      "definition": "chúng tôi (tân ngữ)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "use",
+      "type": "động từ/ danh từ",
+      "IPA": "/juːz/",
+      "definition": "sử dụng, công dụng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "usually",
+      "type": "trạng từ",
+      "IPA": "/ˈjuːʒuəli/",
+      "definition": "thường xuyên",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "value",
+      "type": "danh từ",
+      "IPA": "/ˈvæljuː/",
+      "definition": "giá trị",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "various",
+      "type": "tính từ",
+      "IPA": "/ˈveriəs/",
+      "definition": "đa dạng, khác nhau",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "very",
+      "type": "trạng từ",
+      "IPA": "/ˈveri/",
+      "definition": "rất",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "victim",
+      "type": "danh từ",
+      "IPA": "/ˈvɪktɪm/",
+      "definition": "nạn nhân",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "view",
+      "type": "danh từ/ động từ",
+      "IPA": "/vjuː/",
+      "definition": "tầm nhìn, xem",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "violence",
+      "type": "danh từ",
+      "IPA": "/ˈvaɪələns/",
+      "definition": "bạo lực",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "visit",
+      "type": "động từ/ danh từ",
+      "IPA": "/ˈvɪzɪt/",
+      "definition": "thăm, chuyến thăm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "voice",
+      "type": "danh từ",
+      "IPA": "/vɔɪs/",
+      "definition": "giọng nói",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "vote",
+      "type": "động từ/ danh từ",
+      "IPA": "/voʊt/",
+      "definition": "bầu cử, lá phiếu",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wait",
+      "type": "động từ",
+      "IPA": "/weɪt/",
+      "definition": "chờ đợi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "walk",
+      "type": "động từ",
+      "IPA": "/wɔːk/",
+      "definition": "đi bộ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wall",
+      "type": "danh từ",
+      "IPA": "/wɔːl/",
+      "definition": "bức tường",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "want",
+      "type": "động từ",
+      "IPA": "/wɑːnt/",
+      "definition": "muốn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "war",
+      "type": "danh từ",
+      "IPA": "/wɔːr/",
+      "definition": "chiến tranh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "watch",
+      "type": "động từ/ danh từ",
+      "IPA": "/wɑːtʃ/",
+      "definition": "xem, đồng hồ đeo tay",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "water",
+      "type": "danh từ",
+      "IPA": "/ˈwɔːtər/",
+      "definition": "nước",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "way",
+      "type": "danh từ",
+      "IPA": "/weɪ/",
+      "definition": "đường, cách thức",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "we",
+      "type": "đại từ",
+      "IPA": "/wiː/",
+      "definition": "chúng tôi/chúng ta",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "weapon",
+      "type": "danh từ",
+      "IPA": "/ˈwepən/",
+      "definition": "vũ khí",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wear",
+      "type": "động từ",
+      "IPA": "/wer/",
+      "definition": "mặc, đeo",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "week",
+      "type": "danh từ",
+      "IPA": "/wiːk/",
+      "definition": "tuần",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "weight",
+      "type": "danh từ",
+      "IPA": "/weɪt/",
+      "definition": "cân nặng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "well",
+      "type": "trạng từ/ tính từ",
+      "IPA": "/wel/",
+      "definition": "tốt, khỏe",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "west",
+      "type": "danh từ",
+      "IPA": "/west/",
+      "definition": "phía tây",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "western",
+      "type": "tính từ",
+      "IPA": "/ˈwestərn/",
+      "definition": "thuộc về phương tây",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "what",
+      "type": "từ để hỏi",
+      "IPA": "/wʌt/",
+      "definition": "cái gì",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "whatever",
+      "type": "đại từ",
+      "IPA": "/wətˈevər/",
+      "definition": "bất cứ điều gì",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "when",
+      "type": "từ để hỏi/ từ nối",
+      "IPA": "/wen/",
+      "definition": "khi nào, khi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "where",
+      "type": "từ để hỏi/ từ nối",
+      "IPA": "/wer/",
+      "definition": "ở đâu, nơi mà",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "whether",
+      "type": "từ nối",
+      "IPA": "/ˈweðər/",
+      "definition": "liệu rằng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "which",
+      "type": "từ để hỏi/ từ nối",
+      "IPA": "/wɪtʃ/",
+      "definition": "cái nào, điều mà",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "while",
+      "type": "từ nối",
+      "IPA": "/waɪl/",
+      "definition": "trong khi",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "white",
+      "type": "tính từ/ danh từ",
+      "IPA": "/waɪt/",
+      "definition": "màu trắng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "who",
+      "type": "từ để hỏi/ đại từ",
+      "IPA": "/huː/",
+      "definition": "ai, người mà",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "whole",
+      "type": "tính từ",
+      "IPA": "/hoʊl/",
+      "definition": "toàn bộ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "whom",
+      "type": "đại từ",
+      "IPA": "/huːm/",
+      "definition": "ai (tân ngữ)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "whose",
+      "type": "đại từ",
+      "IPA": "/huːz/",
+      "definition": "của ai",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "why",
+      "type": "từ để hỏi",
+      "IPA": "/waɪ/",
+      "definition": "tại sao",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wide",
+      "type": "tính từ",
+      "IPA": "/waɪd/",
+      "definition": "rộng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wife",
+      "type": "danh từ",
+      "IPA": "/waɪf/",
+      "definition": "vợ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "will",
+      "type": "động từ khuyết thiếu",
+      "IPA": "/wɪl/",
+      "definition": "sẽ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "win",
+      "type": "động từ",
+      "IPA": "/wɪn/",
+      "definition": "chiến thắng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wind",
+      "type": "danh từ",
+      "IPA": "/wɪnd/",
+      "definition": "gió",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "window",
+      "type": "danh từ",
+      "IPA": "/ˈwɪndoʊ/",
+      "definition": "cửa sổ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wish",
+      "type": "động từ/ danh từ",
+      "IPA": "/wɪʃ/",
+      "definition": "ước, điều ước",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "with",
+      "type": "giới từ",
+      "IPA": "/wɪð/",
+      "definition": "với",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "within",
+      "type": "giới từ",
+      "IPA": "/wɪˈðɪn/",
+      "definition": "trong vòng, bên trong",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "without",
+      "type": "giới từ",
+      "IPA": "/wɪˈðaʊt/",
+      "definition": "không có",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "woman",
+      "type": "danh từ",
+      "IPA": "/ˈwʊmən/",
+      "definition": "phụ nữ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wonder",
+      "type": "động từ/ danh từ",
+      "IPA": "/ˈwʌndər/",
+      "definition": "tự hỏi, kỳ quan",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "word",
+      "type": "danh từ",
+      "IPA": "/wɜːrd/",
+      "definition": "từ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "work",
+      "type": "động từ/ danh từ",
+      "IPA": "/wɜːrk/",
+      "definition": "làm việc, công việc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "worker",
+      "type": "danh từ",
+      "IPA": "/ˈwɜːrkər/",
+      "definition": "công nhân",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "world",
+      "type": "danh từ",
+      "IPA": "/wɜːrld/",
+      "definition": "thế giới",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "worry",
+      "type": "động từ",
+      "IPA": "/ˈwɜːri/",
+      "definition": "lo lắng",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "would",
+      "type": "động từ khuyết thiếu",
+      "IPA": "/wʊd/",
+      "definition": "sẽ (quá khứ của will)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "write",
+      "type": "động từ",
+      "IPA": "/raɪt/",
+      "definition": "viết",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "writer",
+      "type": "danh từ",
+      "IPA": "/ˈraɪtər/",
+      "definition": "nhà văn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "wrong",
+      "type": "tính từ",
+      "IPA": "/rɔːŋ/",
+      "definition": "sai",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "yard",
+      "type": "danh từ",
+      "IPA": "/jɑːrd/",
+      "definition": "cái sân",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "yeah",
+      "type": "thán từ",
+      "IPA": "/jeə/",
+      "definition": "ừ, vâng (thân mật)",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "year",
+      "type": "danh từ",
+      "IPA": "/jɪr/",
+      "definition": "năm",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "yes",
+      "type": "thán từ",
+      "IPA": "/jes/",
+      "definition": "vâng, có",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "yet",
+      "type": "trạng từ",
+      "IPA": "/jet/",
+      "definition": "chưa",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "you",
+      "type": "đại từ",
+      "IPA": "/juː/",
+      "definition": "bạn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "young",
+      "type": "tính từ",
+      "IPA": "/jʌŋ/",
+      "definition": "trẻ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "your",
+      "type": "tính từ sở hữu",
+      "IPA": "/jʊr/",
+      "definition": "của bạn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "yourself",
+      "type": "đại từ phản thân",
+      "IPA": "/jʊrˈself/",
+      "definition": "chính bạn",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "word": "zone",
+      "type": "danh từ",
+      "IPA": "/zoʊn/",
+      "definition": "khu vực, vùng",
+      "exampleSentences": [],
+      "image": ""
+    }
+  ]
+}

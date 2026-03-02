@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# builds
+dist
+build
+
+# misc
+.DS_Store
+*.log
+*.lock
+
+# IDE
+.vscode
+.idea

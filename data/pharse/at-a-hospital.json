@@ -1,0 +1,47 @@
+{
+  "topic": "At a hospital",
+  "phrases": [
+    {
+      "phrase": "Examining an X-ray image",
+      "definition": "Kiểm tra hình ảnh X quang",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Examining a patient",
+      "definition": "Khám bệnh",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Filling out a medical form",
+      "definition": "Điền vào một biểu mẫu y tế",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Getting an injection",
+      "definition": "Tiêm thuốc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Handing out medication",
+      "definition": "Phát thuốc",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Having one's temperature taken",
+      "definition": "Đo nhiệt độ",
+      "exampleSentences": [],
+      "image": ""
+    },
+    {
+      "phrase": "Reading the patient's records",
+      "definition": "Đọc hồ sơ của bệnh nhân",
+      "exampleSentences": [],
+      "image": ""
+    }
+  ]
+}

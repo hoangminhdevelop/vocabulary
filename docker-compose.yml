@@ -1,0 +1,64 @@
+version: "3.8"
+
+services:
+  mongodb:
+    image: mongo:7
+    container_name: vocabulary-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password123
+      MONGO_INITDB_DATABASE: vocabulary
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - vocabulary-network
+
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: vocabulary-server
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      NODE_ENV: development
+      PORT: 3001
+      MONGODB_URI: mongodb://admin:password123@mongodb:27017/vocabulary?authSource=admin
+    volumes:
+      - ./server:/app:delegated
+      - ./server/node_modules:/app/node_modules:delegated
+    depends_on:
+      - mongodb
+    networks:
+      - vocabulary-network
+    command: npm run dev
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: vocabulary-client
+    restart: unless-stopped
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_URL: http://localhost:3001/api
+    volumes:
+      - ./client:/app:delegated
+      - ./client/node_modules:/app/node_modules:delegated
+    depends_on:
+      - server
+    networks:
+      - vocabulary-network
+    command: npm run dev
+
+volumes:
+  mongodb_data:
+
+networks:
+  vocabulary-network:
+    driver: bridge
