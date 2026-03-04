@@ -1,35 +1,216 @@
 [
   {
-    "word": "provision",
+    "word": "Agree",
+    "type": "verb",
+    "IPA": "/əˈɡriː/",
+    "definition": "Đồng ý, tán thành",
+    "exampleSentences": ["I agree with your idea.", "They agreed to the plan."]
+  },
+  {
+    "word": "Agreeable",
+    "type": "adjective",
+    "IPA": "/əˈɡriːəbl/",
+    "definition": "Dễ chịu, sẵn sàng đồng ý",
+    "exampleSentences": [
+      "She is an agreeable person.",
+      "The weather was quite agreeable."
+    ]
+  },
+  {
+    "word": "Assure",
+    "type": "verb",
+    "IPA": "/əˈʃʊr/",
+    "definition": "Đảm bảo, cam đoan",
+    "exampleSentences": [
+      "I assure you that everything is fine.",
+      "They assured us of their support."
+    ]
+  },
+  {
+    "word": "Assuredly",
+    "type": "adverb",
+    "IPA": "/əˈʃʊrɪdli/",
+    "definition": "Chắc chắn, không nghi ngờ gì",
+    "exampleSentences": [
+      "He will assuredly succeed.",
+      "This is assuredly the best option."
+    ]
+  },
+  {
+    "word": "Cancel",
+    "type": "verb",
+    "IPA": "/ˈkænsəl/",
+    "definition": "Hủy bỏ",
+    "exampleSentences": [
+      "They decided to cancel the meeting.",
+      "The flight was canceled due to bad weather."
+    ]
+  },
+  {
+    "word": "Canceled",
+    "type": "verb",
+    "IPA": "/ˈkænsəld/",
+    "definition": "Đã bị hủy",
+    "exampleSentences": ["The event was canceled yesterday."]
+  },
+  {
+    "word": "Obligation",
     "type": "noun",
-    "IPA": "/prəˈvɪʒən/",
-    "definition": "The act of supplying something or making it available",
+    "IPA": "/ˌɒblɪˈɡeɪʃən/",
+    "definition": "Nghĩa vụ, trách nhiệm bắt buộc",
     "exampleSentences": [
-      "The provision of clean water is essential for public health.",
-      "The contract includes a provision for early termination."
-    ],
-    "image": "optional-image-url.jpg"
+      "You have a legal obligation to pay taxes.",
+      "She felt an obligation to help."
+    ]
   },
   {
-    "word": "specify",
-    "type": "verb",
-    "IPA": "/ˈspesɪfaɪ/",
-    "definition": "To state something clearly and exactly",
+    "word": "Obligatory",
+    "type": "adjective",
+    "IPA": "/əˈblɪɡətri/",
+    "definition": "Bắt buộc",
     "exampleSentences": [
-      "Please specify your requirements in the form.",
-      "The law does not specify a time limit."
-    ],
-    "image": "optional-image-url.jpg"
+      "Attendance is obligatory.",
+      "Wearing a helmet is obligatory here."
+    ]
   },
   {
-    "word": "satisfy",
+    "word": "Provide",
     "type": "verb",
-    "IPA": "/ˈsætɪsfaɪ/",
-    "definition": "To meet a need, requirement, or expectation",
+    "IPA": "/prəˈvaɪd/",
+    "definition": "Cung cấp",
     "exampleSentences": [
-      "The product failed to satisfy customer expectations.",
-      "You must satisfy all the conditions to apply."
-    ],
-    "image": "optional-image-url.jpg"
+      "They provide free Wi-Fi.",
+      "The company provides training for staff."
+    ]
+  },
+  {
+    "word": "Provider",
+    "type": "noun",
+    "IPA": "/prəˈvaɪdər/",
+    "definition": "Nhà cung cấp",
+    "exampleSentences": [
+      "She is a health care provider.",
+      "Choose a reliable service provider."
+    ]
+  },
+  {
+    "word": "Specific",
+    "type": "adjective",
+    "IPA": "/spəˈsɪfɪk/",
+    "definition": "Cụ thể, riêng biệt",
+    "exampleSentences": [
+      "Please give me specific details.",
+      "This rule applies to a specific group."
+    ]
+  },
+  {
+    "word": "Attraction",
+    "type": "noun",
+    "IPA": "/əˈtrækʃən/",
+    "definition": "Sự thu hút, điểm tham quan",
+    "exampleSentences": [
+      "The park is a major tourist attraction.",
+      "There is a strong attraction between them."
+    ]
+  },
+  {
+    "word": "Attractive",
+    "type": "adjective",
+    "IPA": "/əˈtræktɪv/",
+    "definition": "Hấp dẫn, thu hút",
+    "exampleSentences": [
+      "She is very attractive.",
+      "The offer looks attractive."
+    ]
+  },
+  {
+    "word": "Comparison",
+    "type": "noun",
+    "IPA": "/kəmˈpærɪsən/",
+    "definition": "Sự so sánh",
+    "exampleSentences": [
+      "The comparison between the two products is clear.",
+      "There is no comparison between them."
+    ]
+  },
+  {
+    "word": "Comparable",
+    "type": "adjective",
+    "IPA": "/ˈkɒmpərəbl/",
+    "definition": "Có thể so sánh được, tương đương",
+    "exampleSentences": [
+      "The two houses are comparable in size.",
+      "Quality is comparable to that of competitors."
+    ]
+  },
+  {
+    "word": "Competition",
+    "type": "noun",
+    "IPA": "/ˌkɒmpəˈtɪʃən/",
+    "definition": "Sự cạnh tranh, cuộc thi",
+    "exampleSentences": [
+      "The company faces strong competition.",
+      "She won the singing competition."
+    ]
+  },
+  {
+    "word": "Competitive",
+    "type": "adjective",
+    "IPA": "/kəmˈpetɪtɪv/",
+    "definition": "Cạnh tranh, có tính cạnh tranh",
+    "exampleSentences": [
+      "The market is highly competitive.",
+      "He is very competitive in sports."
+    ]
+  },
+  {
+    "word": "Consumer",
+    "type": "noun",
+    "IPA": "/kənˈsjuːmər/",
+    "definition": "Người tiêu dùng",
+    "exampleSentences": [
+      "Consumers are looking for cheaper options.",
+      "Consumer demand is increasing."
+    ]
+  },
+  {
+    "word": "Consumable",
+    "type": "adjective",
+    "IPA": "/kənˈsjuːməbl/",
+    "definition": "Có thể tiêu thụ được",
+    "exampleSentences": [
+      "This product is safe and consumable.",
+      "Food and drinks are consumable goods."
+    ]
+  },
+  {
+    "word": "Marketing",
+    "type": "noun",
+    "IPA": "/ˈmɑːrkɪtɪŋ/",
+    "definition": "Tiếp thị",
+    "exampleSentences": [
+      "She works in marketing.",
+      "Good marketing increases sales."
+    ]
+  },
+  {
+    "word": "Marketable",
+    "type": "adjective",
+    "IPA": "/ˈmɑːrkɪtəbl/",
+    "definition": "Có thể bán được, có giá trị thương mại",
+    "exampleSentences": [
+      "The product is highly marketable.",
+      "He has marketable skills."
+    ]
+  },
+  {
+    "word": "Satisfactory",
+    "type": "adjective",
+    "IPA": "/ˌsætɪsˈfæktəri/",
+    "definition": "Thỏa đáng, đạt yêu cầu",
+    "exampleSentences": [
+      "Your performance is satisfactory.",
+      "The results were satisfactory."
+    ]
   }
 ]

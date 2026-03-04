@@ -26,6 +26,7 @@ import { useApp } from '../../context/AppContext';
 import { useDeleteWord, useUpdateWord } from '../../hooks/useVocabulary';
 import EditWordModal from './EditWordModal';
 import ImageWithModal from '../ImageWithModal';
+import SpeakButton from '../SpeakButton';
 
 interface WordTableProps {
   words: VocabularyWord[];
@@ -133,10 +134,10 @@ const WordTable: React.FC<WordTableProps> = ({ words, onUpdate, orderBy, order, 
                   <strong>Type</strong>
                 )}
               </TableCell>
-              <TableCell>
+              <TableCell sx={{ minWidth: 120 }}>
                 <strong>IPA</strong>
               </TableCell>
-              <TableCell>
+              <TableCell sx={{ minWidth: 150 }}>
                 <strong>Definition</strong>
               </TableCell>
               <TableCell align="center">
@@ -209,12 +210,15 @@ const WordTable: React.FC<WordTableProps> = ({ words, onUpdate, orderBy, order, 
                   <TableCell>
                     <Chip label={word.type} size="small" color="primary" />
                   </TableCell>
-                  <TableCell>
-                    <Typography variant="body2" color="text.secondary">
-                      {word.IPA}
-                    </Typography>
+                  <TableCell sx={{ minWidth: 120 }}>
+                    <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
+                      <Typography variant="body2" color="text.secondary">
+                        {word.IPA}
+                      </Typography>
+                      <SpeakButton text={word.word} size="small" />
+                    </Box>
                   </TableCell>
-                  <TableCell>
+                  <TableCell sx={{ minWidth: 150 }}>
                     <Typography variant="body2">{word.definition}</Typography>
                   </TableCell>
                   <TableCell align="center">
